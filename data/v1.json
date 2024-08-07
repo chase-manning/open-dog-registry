@@ -37,6 +37,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chihuahua/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chihuahua/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chihuahua/studio.png"
     }
   },
   {
@@ -77,6 +82,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/siberian-husky/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/siberian-husky/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/siberian-husky/studio.png"
     }
   },
   {
@@ -117,6 +127,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/yorkshire-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/yorkshire-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/yorkshire-terrier/studio.png"
     }
   },
   {
@@ -157,6 +172,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/french-bulldog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/french-bulldog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/french-bulldog/studio.png"
     }
   },
   {
@@ -197,6 +217,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-shepherd/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-shepherd/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-shepherd/studio.png"
     }
   },
   {
@@ -237,6 +262,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/labrador-retriever/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/labrador-retriever/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/labrador-retriever/studio.png"
     }
   },
   {
@@ -277,6 +307,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dachshund/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dachshund/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dachshund/studio.png"
     }
   },
   {
@@ -317,6 +352,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/golden-retriever/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/golden-retriever/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/golden-retriever/studio.png"
     }
   },
   {
@@ -357,6 +397,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/beagle/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/beagle/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/beagle/studio.png"
     }
   },
   {
@@ -397,6 +442,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bulldog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bulldog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bulldog/studio.png"
     }
   },
   {
@@ -437,6 +487,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-poodle/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-poodle/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-poodle/studio.png"
     }
   },
   {
@@ -477,6 +532,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-shepherd/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-shepherd/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-shepherd/studio.png"
     }
   },
   {
@@ -517,6 +577,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/great-dane/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/great-dane/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/great-dane/studio.png"
     }
   },
   {
@@ -557,6 +622,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-shorthaired-pointer/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-shorthaired-pointer/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-shorthaired-pointer/studio.png"
     }
   },
   {
@@ -597,6 +667,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shetland-sheepdog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shetland-sheepdog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shetland-sheepdog/studio.png"
     }
   },
   {
@@ -637,6 +712,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/standard-poodle/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/standard-poodle/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/standard-poodle/studio.png"
     }
   },
   {
@@ -677,6 +757,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shih-tzu/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shih-tzu/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shih-tzu/studio.png"
     }
   },
   {
@@ -717,6 +802,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/rottweiler/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/rottweiler/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/rottweiler/studio.png"
     }
   },
   {
@@ -757,6 +847,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/staffordshire-bull-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/staffordshire-bull-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/staffordshire-bull-terrier/studio.png"
     }
   },
   {
@@ -797,6 +892,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/belgian-malinois/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/belgian-malinois/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/belgian-malinois/studio.png"
     }
   },
   {
@@ -837,6 +937,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/samoyed/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/samoyed/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/samoyed/studio.png"
     }
   },
   {
@@ -877,6 +982,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pembroke-welsh-corgi/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pembroke-welsh-corgi/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pembroke-welsh-corgi/studio.png"
     }
   },
   {
@@ -917,6 +1027,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/newfoundland/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/newfoundland/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/newfoundland/studio.png"
     }
   },
   {
@@ -957,6 +1072,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/doberman-pinscher/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/doberman-pinscher/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/doberman-pinscher/studio.png"
     }
   },
   {
@@ -997,6 +1117,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bichon-frise/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bichon-frise/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bichon-frise/studio.png"
     }
   },
   {
@@ -1037,6 +1162,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/maltese/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/maltese/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/maltese/studio.png"
     }
   },
   {
@@ -1077,6 +1207,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-schnauzer/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-schnauzer/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-schnauzer/studio.png"
     }
   },
   {
@@ -1117,6 +1252,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/west-highland-white-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/west-highland-white-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/west-highland-white-terrier/studio.png"
     }
   },
   {
@@ -1157,6 +1297,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cocker-spaniel/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cocker-spaniel/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cocker-spaniel/studio.png"
     }
   },
   {
@@ -1197,6 +1342,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pug/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pug/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pug/studio.png"
     }
   },
   {
@@ -1237,6 +1387,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boston-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boston-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boston-terrier/studio.png"
     }
   },
   {
@@ -1277,6 +1432,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bernese-mountain-dog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bernese-mountain-dog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bernese-mountain-dog/studio.png"
     }
   },
   {
@@ -1317,6 +1477,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pomeranian/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pomeranian/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pomeranian/studio.png"
     }
   },
   {
@@ -1357,6 +1522,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/weimaraner/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/weimaraner/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/weimaraner/studio.png"
     }
   },
   {
@@ -1397,6 +1567,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-springer-spaniel/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-springer-spaniel/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-springer-spaniel/studio.png"
     }
   },
   {
@@ -1437,6 +1612,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dalmatian/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dalmatian/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dalmatian/studio.png"
     }
   },
   {
@@ -1477,6 +1657,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavalier-king-charles-spaniel/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavalier-king-charles-spaniel/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavalier-king-charles-spaniel/studio.png"
     }
   },
   {
@@ -1517,6 +1702,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/border-collie/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/border-collie/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/border-collie/studio.png"
     }
   },
   {
@@ -1557,6 +1747,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boxer/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boxer/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boxer/studio.png"
     }
   },
   {
@@ -1597,6 +1792,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/standard-schnauzer/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/standard-schnauzer/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/standard-schnauzer/studio.png"
     }
   },
   {
@@ -1637,6 +1837,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/akita/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/akita/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/akita/studio.png"
     }
   },
   {
@@ -1677,6 +1882,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/russell-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/russell-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/russell-terrier/studio.png"
     }
   },
   {
@@ -1717,6 +1927,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dogue-de-bordeaux/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dogue-de-bordeaux/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dogue-de-bordeaux/studio.png"
     }
   },
   {
@@ -1757,6 +1972,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-pinscher/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-pinscher/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-pinscher/studio.png"
     }
   },
   {
@@ -1797,6 +2017,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/nova-scotia-duck-tolling-retriever/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/nova-scotia-duck-tolling-retriever/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/nova-scotia-duck-tolling-retriever/studio.png"
     }
   },
   {
@@ -1837,6 +2062,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bullmastiff/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bullmastiff/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bullmastiff/studio.png"
     }
   },
   {
@@ -1877,6 +2107,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/giant-schnauzer/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/giant-schnauzer/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/giant-schnauzer/studio.png"
     }
   },
   {
@@ -1917,6 +2152,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/airedale-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/airedale-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/airedale-terrier/studio.png"
     }
   },
   {
@@ -1957,6 +2197,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-cocker-spaniel/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-cocker-spaniel/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-cocker-spaniel/studio.png"
     }
   },
   {
@@ -1997,6 +2242,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/mastiff/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/mastiff/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/mastiff/studio.png"
     }
   },
   {
@@ -2037,6 +2287,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-setter/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-setter/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-setter/studio.png"
     }
   },
   {
@@ -2077,6 +2332,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 2
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shiba-inu/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shiba-inu/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shiba-inu/studio.png"
     }
   },
   {
@@ -2117,6 +2377,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/toy-poodle/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/toy-poodle/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/toy-poodle/studio.png"
     }
   },
   {
@@ -2157,6 +2422,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-eskimo/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-eskimo/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-eskimo/studio.png"
     }
   },
   {
@@ -2197,6 +2467,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/brittany/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/brittany/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/brittany/studio.png"
     }
   },
   {
@@ -2237,6 +2512,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cardigan-welsh-corgi/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cardigan-welsh-corgi/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cardigan-welsh-corgi/studio.png"
     }
   },
   {
@@ -2277,6 +2557,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/belgian-tervuren/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/belgian-tervuren/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/belgian-tervuren/studio.png"
     }
   },
   {
@@ -2317,6 +2602,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bloodhound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bloodhound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bloodhound/studio.png"
     }
   },
   {
@@ -2357,6 +2647,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 2
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/anatolian-shepherd/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/anatolian-shepherd/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/anatolian-shepherd/studio.png"
     }
   },
   {
@@ -2397,6 +2692,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-wirehaired-pointer/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-wirehaired-pointer/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-wirehaired-pointer/studio.png"
     }
   },
   {
@@ -2437,6 +2737,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/belgian-sheepdog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/belgian-sheepdog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/belgian-sheepdog/studio.png"
     }
   },
   {
@@ -2477,6 +2782,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/gordon-setter/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/gordon-setter/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/gordon-setter/studio.png"
     }
   },
   {
@@ -2517,6 +2827,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/italian-greyhound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/italian-greyhound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/italian-greyhound/studio.png"
     }
   },
   {
@@ -2557,6 +2872,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/border-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/border-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/border-terrier/studio.png"
     }
   },
   {
@@ -2597,6 +2917,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/flat-coated-retriever/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/flat-coated-retriever/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/flat-coated-retriever/studio.png"
     }
   },
   {
@@ -2637,6 +2962,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chinese-crested/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chinese-crested/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chinese-crested/studio.png"
     }
   },
   {
@@ -2677,6 +3007,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/portuguese-water-dog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/portuguese-water-dog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/portuguese-water-dog/studio.png"
     }
   },
   {
@@ -2717,6 +3052,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/greyhound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/greyhound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/greyhound/studio.png"
     }
   },
   {
@@ -2757,6 +3097,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/old-english-sheepdog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/old-english-sheepdog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/old-english-sheepdog/studio.png"
     }
   },
   {
@@ -2797,6 +3142,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/st-bernard/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/st-bernard/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/st-bernard/studio.png"
     }
   },
   {
@@ -2837,6 +3187,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/papillon/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/papillon/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/papillon/studio.png"
     }
   },
   {
@@ -2877,6 +3232,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/whippet/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/whippet/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/whippet/studio.png"
     }
   },
   {
@@ -2917,6 +3277,11 @@
       "activityLevel": 1,
       "mentalStimulationRequirements": 1,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-bulldog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-bulldog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-bulldog/studio.png"
     }
   },
   {
@@ -2957,6 +3322,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/rhodesian-ridgeback/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/rhodesian-ridgeback/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/rhodesian-ridgeback/studio.png"
     }
   },
   {
@@ -2997,6 +3367,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-staffordshire-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-staffordshire-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-staffordshire-terrier/studio.png"
     }
   },
   {
@@ -3037,6 +3412,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/scottish-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/scottish-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/scottish-terrier/studio.png"
     }
   },
   {
@@ -3077,6 +3457,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/wire-fox-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/wire-fox-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/wire-fox-terrier/studio.png"
     }
   },
   {
@@ -3117,6 +3502,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/vizsla/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/vizsla/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/vizsla/studio.png"
     }
   },
   {
@@ -3157,6 +3547,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pekingese/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pekingese/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pekingese/studio.png"
     }
   },
   {
@@ -3197,6 +3592,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/great-pyrenees/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/great-pyrenees/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/great-pyrenees/studio.png"
     }
   },
   {
@@ -3237,6 +3637,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/alaskan-malamute/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/alaskan-malamute/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/alaskan-malamute/studio.png"
     }
   },
   {
@@ -3277,6 +3682,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/havanese/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/havanese/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/havanese/studio.png"
     }
   },
   {
@@ -3317,6 +3727,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chinese-shar-pei/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chinese-shar-pei/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chinese-shar-pei/studio.png"
     }
   },
   {
@@ -3357,6 +3772,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 1
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/afghan-hound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/afghan-hound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/afghan-hound/studio.png"
     }
   },
   {
@@ -3397,6 +3817,11 @@
       "activityLevel": 2,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/basset-hound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/basset-hound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/basset-hound/studio.png"
     }
   },
   {
@@ -3437,6 +3862,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-cattle-dog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-cattle-dog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-cattle-dog/studio.png"
     }
   },
   {
@@ -3477,6 +3907,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/soft-coated-wheaten-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/soft-coated-wheaten-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/soft-coated-wheaten-terrier/studio.png"
     }
   },
   {
@@ -3517,6 +3952,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lhasa-apso/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lhasa-apso/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lhasa-apso/studio.png"
     }
   },
   {
@@ -3557,6 +3997,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chesapeake-bay-retriever/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chesapeake-bay-retriever/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chesapeake-bay-retriever/studio.png"
     }
   },
   {
@@ -3597,6 +4042,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pointer/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pointer/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pointer/studio.png"
     }
   },
   {
@@ -3637,6 +4087,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/collie/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/collie/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/collie/studio.png"
     }
   },
   {
@@ -3677,6 +4132,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bull-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bull-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bull-terrier/studio.png"
     }
   },
   {
@@ -3717,6 +4177,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-wolfhound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-wolfhound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-wolfhound/studio.png"
     }
   },
   {
@@ -3757,6 +4222,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-setter/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-setter/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-setter/studio.png"
     }
   },
   {
@@ -3797,6 +4267,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cane-corso/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cane-corso/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cane-corso/studio.png"
     }
   },
   {
@@ -3837,6 +4312,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chow-chow/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chow-chow/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chow-chow/studio.png"
     }
   },
   {
@@ -3877,6 +4357,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cairn-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cairn-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cairn-terrier/studio.png"
     }
   },
   {
@@ -3917,6 +4402,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 2
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/basenji/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/basenji/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/basenji/studio.png"
     }
   },
   {
@@ -3957,6 +4447,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-water-spaniel/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-water-spaniel/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-water-spaniel/studio.png"
     }
   },
   {
@@ -3997,6 +4492,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/polish-lowland-sheepdog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/polish-lowland-sheepdog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/polish-lowland-sheepdog/studio.png"
     }
   },
   {
@@ -4037,6 +4537,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/norwich-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/norwich-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/norwich-terrier/studio.png"
     }
   },
   {
@@ -4077,6 +4582,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-pinscher/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-pinscher/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-pinscher/studio.png"
     }
   },
   {
@@ -4117,6 +4627,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/ibizan-hound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/ibizan-hound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/ibizan-hound/studio.png"
     }
   },
   {
@@ -4157,6 +4672,11 @@
       "activityLevel": 2,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/presa-canario/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/presa-canario/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/presa-canario/studio.png"
     }
   },
   {
@@ -4197,6 +4717,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/saluki/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/saluki/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/saluki/studio.png"
     }
   },
   {
@@ -4237,6 +4762,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boerboel/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boerboel/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boerboel/studio.png"
     }
   },
   {
@@ -4277,6 +4807,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bearded-collie/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bearded-collie/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bearded-collie/studio.png"
     }
   },
   {
@@ -4317,6 +4852,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/puli/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/puli/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/puli/studio.png"
     }
   },
   {
@@ -4357,6 +4897,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lakeland-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lakeland-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lakeland-terrier/studio.png"
     }
   },
   {
@@ -4397,6 +4942,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/smooth-fox-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/smooth-fox-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/smooth-fox-terrier/studio.png"
     }
   },
   {
@@ -4437,6 +4987,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/mexican-hairless-dog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/mexican-hairless-dog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/mexican-hairless-dog/studio.png"
     }
   },
   {
@@ -4477,6 +5032,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/welsh-springer-spaniel/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/welsh-springer-spaniel/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/welsh-springer-spaniel/studio.png"
     }
   },
   {
@@ -4517,6 +5077,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 2
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/borzoi/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/borzoi/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/borzoi/studio.png"
     }
   },
   {
@@ -4557,6 +5122,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/greater-swiss-mountain-dog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/greater-swiss-mountain-dog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/greater-swiss-mountain-dog/studio.png"
     }
   },
   {
@@ -4597,6 +5167,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/briard/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/briard/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/briard/studio.png"
     }
   },
   {
@@ -4637,6 +5212,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dutch-shepherd/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dutch-shepherd/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dutch-shepherd/studio.png"
     }
   },
   {
@@ -4677,6 +5257,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/wirehaired-pointing-griffon/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/wirehaired-pointing-griffon/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/wirehaired-pointing-griffon/studio.png"
     }
   },
   {
@@ -4717,6 +5302,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/petit-basset-griffon-vendéen/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/petit-basset-griffon-vendéen/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/petit-basset-griffon-vendéen/studio.png"
     }
   },
   {
@@ -4757,6 +5347,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lagotto-romagnolo/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lagotto-romagnolo/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lagotto-romagnolo/studio.png"
     }
   },
   {
@@ -4797,6 +5392,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/treeing-walker-coonhound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/treeing-walker-coonhound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/treeing-walker-coonhound/studio.png"
     }
   },
   {
@@ -4837,6 +5437,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/tibetan-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/tibetan-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/tibetan-terrier/studio.png"
     }
   },
   {
@@ -4877,6 +5482,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-terrier/studio.png"
     }
   },
   {
@@ -4917,6 +5527,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/standard-manchester-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/standard-manchester-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/standard-manchester-terrier/studio.png"
     }
   },
   {
@@ -4957,6 +5572,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/finnish-spitz/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/finnish-spitz/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/finnish-spitz/studio.png"
     }
   },
   {
@@ -4997,6 +5617,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-foxhound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-foxhound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-foxhound/studio.png"
     }
   },
   {
@@ -5037,6 +5662,11 @@
       "activityLevel": 2,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/neapolitan-mastiff/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/neapolitan-mastiff/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/neapolitan-mastiff/studio.png"
     }
   },
   {
@@ -5077,6 +5707,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bedlington-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bedlington-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bedlington-terrier/studio.png"
     }
   },
   {
@@ -5117,6 +5752,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/parson-russell-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/parson-russell-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/parson-russell-terrier/studio.png"
     }
   },
   {
@@ -5157,6 +5797,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/spinone-italiano/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/spinone-italiano/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/spinone-italiano/studio.png"
     }
   },
   {
@@ -5197,6 +5842,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-american-shepherd/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-american-shepherd/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-american-shepherd/studio.png"
     }
   },
   {
@@ -5237,6 +5887,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/finnish-lapphund/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/finnish-lapphund/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/finnish-lapphund/studio.png"
     }
   },
   {
@@ -5277,6 +5932,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/norwegian-elkhound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/norwegian-elkhound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/norwegian-elkhound/studio.png"
     }
   },
   {
@@ -5317,6 +5977,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/toy-manchester-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/toy-manchester-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/toy-manchester-terrier/studio.png"
     }
   },
   {
@@ -5357,6 +6022,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/silky-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/silky-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/silky-terrier/studio.png"
     }
   },
   {
@@ -5397,6 +6067,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/keeshond/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/keeshond/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/keeshond/studio.png"
     }
   },
   {
@@ -5437,6 +6112,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/welsh-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/welsh-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/welsh-terrier/studio.png"
     }
   },
   {
@@ -5477,6 +6157,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/leonberger/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/leonberger/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/leonberger/studio.png"
     }
   },
   {
@@ -5517,6 +6202,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/affenpinscher/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/affenpinscher/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/affenpinscher/studio.png"
     }
   },
   {
@@ -5557,6 +6247,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/coton-de-tulear/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/coton-de-tulear/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/coton-de-tulear/studio.png"
     }
   },
   {
@@ -5597,6 +6292,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/beauceron/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/beauceron/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/beauceron/studio.png"
     }
   },
   {
@@ -5637,6 +6337,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 3,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-red-and-white-setter/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-red-and-white-setter/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/irish-red-and-white-setter/studio.png"
     }
   },
   {
@@ -5677,6 +6382,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/black-and-tan-coonhound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/black-and-tan-coonhound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/black-and-tan-coonhound/studio.png"
     }
   },
   {
@@ -5717,6 +6427,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/catahoula-leopard-dog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/catahoula-leopard-dog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/catahoula-leopard-dog/studio.png"
     }
   },
   {
@@ -5757,6 +6472,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-bull-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-bull-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/miniature-bull-terrier/studio.png"
     }
   },
   {
@@ -5797,6 +6517,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bouvier-des-flandres/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bouvier-des-flandres/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bouvier-des-flandres/studio.png"
     }
   },
   {
@@ -5837,6 +6562,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/spanish-water-dog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/spanish-water-dog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/spanish-water-dog/studio.png"
     }
   },
   {
@@ -5877,6 +6607,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/kuvasz/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/kuvasz/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/kuvasz/studio.png"
     }
   },
   {
@@ -5917,6 +6652,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-terrier/studio.png"
     }
   },
   {
@@ -5957,6 +6697,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/japanese-chin/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/japanese-chin/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/japanese-chin/studio.png"
     }
   },
   {
@@ -5997,6 +6742,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/redbone-coonhound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/redbone-coonhound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/redbone-coonhound/studio.png"
     }
   },
   {
@@ -6037,6 +6787,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-hairless-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-hairless-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-hairless-terrier/studio.png"
     }
   },
   {
@@ -6077,6 +6832,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-kelpie/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-kelpie/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-kelpie/studio.png"
     }
   },
   {
@@ -6117,6 +6877,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dogo-argentino/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dogo-argentino/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dogo-argentino/studio.png"
     }
   },
   {
@@ -6157,6 +6922,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/scottish-deerhound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/scottish-deerhound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/scottish-deerhound/studio.png"
     }
   },
   {
@@ -6197,6 +6967,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/tibetan-spaniel/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/tibetan-spaniel/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/tibetan-spaniel/studio.png"
     }
   },
   {
@@ -6237,6 +7012,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/toy-fox-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/toy-fox-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/toy-fox-terrier/studio.png"
     }
   },
   {
@@ -6277,6 +7057,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/brussels-griffon/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/brussels-griffon/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/brussels-griffon/studio.png"
     }
   },
   {
@@ -6317,6 +7102,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/rat-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/rat-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/rat-terrier/studio.png"
     }
   },
   {
@@ -6357,6 +7147,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/schipperke/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/schipperke/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/schipperke/studio.png"
     }
   },
   {
@@ -6397,6 +7192,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/curly-coated-retriever/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/curly-coated-retriever/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/curly-coated-retriever/studio.png"
     }
   },
   {
@@ -6437,6 +7237,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/kerry-blue-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/kerry-blue-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/kerry-blue-terrier/studio.png"
     }
   },
   {
@@ -6477,6 +7282,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/norfolk-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/norfolk-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/norfolk-terrier/studio.png"
     }
   },
   {
@@ -6517,6 +7327,11 @@
       "activityLevel": 2,
       "mentalStimulationRequirements": 2,
       "trainingEase": 2
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pyrenean-mastiff/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pyrenean-mastiff/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pyrenean-mastiff/studio.png"
     }
   },
   {
@@ -6557,6 +7372,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-toy-spaniel/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-toy-spaniel/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/english-toy-spaniel/studio.png"
     }
   },
   {
@@ -6597,6 +7417,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dandie-dinmont-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dandie-dinmont-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/dandie-dinmont-terrier/studio.png"
     }
   },
   {
@@ -6637,6 +7462,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/clumber-spaniel/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/clumber-spaniel/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/clumber-spaniel/studio.png"
     }
   },
   {
@@ -6677,6 +7507,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 5,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/volpino-italiano/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/volpino-italiano/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/volpino-italiano/studio.png"
     }
   },
   {
@@ -6717,6 +7552,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/komondor/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/komondor/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/komondor/studio.png"
     }
   },
   {
@@ -6757,6 +7597,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-leopard-hound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-leopard-hound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/american-leopard-hound/studio.png"
     }
   },
   {
@@ -6797,6 +7642,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lapponian-herder/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lapponian-herder/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lapponian-herder/studio.png"
     }
   },
   {
@@ -6837,6 +7687,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lancashire-heeler/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lancashire-heeler/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/lancashire-heeler/studio.png"
     }
   },
   {
@@ -6877,6 +7732,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/plott-hound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/plott-hound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/plott-hound/studio.png"
     }
   },
   {
@@ -6917,6 +7777,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 5,
       "trainingEase": 5
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-spitz/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-spitz/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/german-spitz/studio.png"
     }
   },
   {
@@ -6957,6 +7822,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/alaskan-klee-kai/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/alaskan-klee-kai/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/alaskan-klee-kai/studio.png"
     }
   },
   {
@@ -6997,6 +7867,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
       "trainingEase": 4
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bluetick-coonhound/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bluetick-coonhound/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bluetick-coonhound/studio.png"
     }
   },
   {
@@ -7037,6 +7912,11 @@
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/portuguese-podengo-pequeno/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/portuguese-podengo-pequeno/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/portuguese-podengo-pequeno/studio.png"
     }
   },
   {
@@ -7077,6 +7957,11 @@
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-stumpy-tail-cattle-dog/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-stumpy-tail-cattle-dog/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/australian-stumpy-tail-cattle-dog/studio.png"
     }
   },
   {
@@ -7117,6 +8002,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/skye-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/skye-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/skye-terrier/studio.png"
     }
   },
   {
@@ -7157,6 +8047,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/teddy-roosevelt-terrier/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/teddy-roosevelt-terrier/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/teddy-roosevelt-terrier/studio.png"
     }
   },
   {
@@ -7197,6 +8092,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
       "trainingEase": 3
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/tosa/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/tosa/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/tosa/studio.png"
     }
   },
   {
@@ -7237,6 +8137,11 @@
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
       "trainingEase": 2
+    },
+    "images": {
+      "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/azawakh/indoors.png",
+      "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/azawakh/outdoors.png",
+      "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/azawakh/studio.png"
     }
   }
 ]
