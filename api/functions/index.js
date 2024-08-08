@@ -4,10 +4,10 @@ const logger = require("firebase-functions/logger");
 const REPO = "chase-manning/open-dog-registry";
 const DATA_URL = `https://raw.githubusercontent.com/${REPO}/main/data/v1.json`;
 
-exports.helloWorld = onRequest(async (request, response) => {
+exports.v1 = onRequest(async (request, response) => {
   try {
-    const response = await fetch(DATA_URL);
-    const data = await response.json();
+    const res = await fetch(DATA_URL);
+    const data = await res.json();
     response.status(200).send({ status: "success", data });
   } catch (error) {
     logger.error(error);
