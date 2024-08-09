@@ -12,12 +12,20 @@ const StyledCodeSnippet = styled.div`
   background: rgba(0, 0, 0, 0.1);
   border-radius: 0.5rem;
   gap: 3rem;
+
+  @media (max-width: 900px) {
+    gap: 2rem;
+  }
 `;
 
 const Code = styled.div`
   color: var(--main);
   font-size: 1.7rem;
   font-weight: 500;
+
+  @media (max-width: 900px) {
+    font-size: 1.5rem;
+  }
 `;
 
 const CopyButton = styled.button`
@@ -26,6 +34,10 @@ const CopyButton = styled.button`
 
 const CopyIcon = styled.img`
   width: 1.6rem;
+
+  @media (max-width: 900px) {
+    width: 1.4rem;
+  }
 `;
 
 const CodeSnippet = ({ code }: { code: string }): JSX.Element => {

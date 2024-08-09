@@ -16,16 +16,26 @@ const StyledApp = styled.div`
   align-items: center;
   justify-content: center;
   background: radial-gradient(white, var(--bg));
+  padding: 2rem;
 `;
 
 const Logo = styled.img`
   height: 18rem;
+
+  @media (max-width: 900px) {
+    height: 12rem;
+  }
 `;
 
 const Header = styled.h1`
   font-size: 6rem;
   font-weight: 700;
   color: var(--main);
+  text-align: center;
+
+  @media (max-width: 900px) {
+    font-size: 4rem;
+  }
 `;
 
 const Subheader = styled.h2`
@@ -34,6 +44,10 @@ const Subheader = styled.h2`
   color: var(--sub);
   max-width: 50rem;
   text-align: center;
+
+  @media (max-width: 900px) {
+    font-size: 1.8rem;
+  }
 `;
 
 const Content = styled.div`
@@ -48,6 +62,11 @@ const Buttons = styled.div`
   display: flex;
   align-items: center;
   gap: 3rem;
+
+  @media (max-width: 900px) {
+    gap: 2rem;
+    margin-top: 1.5rem;
+  }
 `;
 
 const App = () => {

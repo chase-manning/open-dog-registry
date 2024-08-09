@@ -14,6 +14,12 @@ const StyledButton = styled.a<{ $primary: boolean }>`
     $primary ? "var(--primary)" : "var(--secondary)"};
   border: 2px solid
     ${({ $primary }) => ($primary ? "var(--primary)" : "var(--secondary)")};
+
+  @media (max-width: 900px) {
+    font-size: 1.6rem;
+    padding: 0.8rem 1.6rem;
+    min-width: 12rem;
+  }
 `;
 
 interface Props {
