@@ -1,0 +1,27 @@
+name: Deploy to Firebase
+"on":
+  pull_request:
+
+jobs:
+  build-website:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+      - name: Installing Dependencies
+        working-directory: ./website
+        run: yarn install
+      - name: Build
+        working-directory: ./website
+        run: yarn build
+  test-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+      - name: Installing Dependencies
+        working-directory: ./tests
+        run: yarn install
+      - name: Test
+        working-directory: ./tests
+        run: yarn test
