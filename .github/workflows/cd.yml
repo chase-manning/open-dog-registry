@@ -1,4 +1,4 @@
-name: Deploy to Firebase
+name: CD
 "on":
   push:
     branches:
