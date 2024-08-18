@@ -31,6 +31,7 @@ test("there are no missing data points", () => {
     expect(typeof generalInformation.group).toBe("string");
     expect(generalInformation.personalityTraits).toBeDefined();
     expect(Array.isArray(generalInformation.personalityTraits)).toBe(true);
+    expect(generalInformation.personalityTraits.length).toBe(3);
     expect(generalInformation.shortDescription).toBeDefined();
     expect(typeof generalInformation.shortDescription).toBe("string");
     expect(generalInformation.longDescription).toBeDefined();
