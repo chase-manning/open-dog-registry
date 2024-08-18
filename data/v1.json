@@ -408,7 +408,7 @@
     "generalInformation": {
       "name": "Bulldog",
       "group": "Companion",
-      "personalityTraits": ["Friendly", "Brave", "Calm"],
+      "personalityTraits": ["Friendly", "Brave", "Relaxed"],
       "shortDescription": "The Bulldog: serene, amicable, and brave, with a distinctive appearance and loyal companionship.",
       "longDescription": "The Bulldog is a serene and amicable companion known for its courage and distinct, unmistakable appearance. Standing about 15 inches tall and weighing around 45 pounds, Bulldogs have a thick-set, low-slung build with well-defined muscles.\n Their unique features include loose skin on the head, a furrowed brow, a pushed-in nose, small ears, an undershot jaw with hanging chops, and a distinctive rolling gait. Their coat is short, smooth, and glossy, coming in various colors and patterns.\nThese loyal and docile companions adapt well to both town and country life. Bulldogs are affectionate with their families, rating 4 out of 5 in family affection level, and they get along well with strangers, scoring 4 out of 5 in friendliness. They are moderately protective and adaptable, with both traits scoring 3 out of 5.\n Bulldogs enjoy moderate exercise, such as brisk walks, but also love to curl up in your lap. Due to their short snouts, they require a cool environment during hot weather to avoid breathing difficulties.\nDespite their easygoing nature, Bulldogs are not lazy and need regular activity and a balanced diet to maintain their health. Their playful demeanor and dignified presence make them popular companions, scoring 5 out of 5 in popularity.\n With moderate grooming needs and an average shedding level, Bulldogs are relatively easy to care for, making them an excellent choice for those seeking a loving and steadfast canine friend.",
       "popularity": 5,
@@ -1398,7 +1398,7 @@
     "generalInformation": {
       "name": "Bernese Mountain Dog",
       "group": "Working",
-      "personalityTraits": ["Friendly", "Calm", "Brave"],
+      "personalityTraits": ["Friendly", "Relaxed", "Brave"],
       "shortDescription": "The Bernese Mountain Dog is a strong, serene, and benevolent working breed, perfect for families.",
       "longDescription": "Big, powerful, and built for hard work, the Bernese Mountain Dog is also strikingly beautiful and blessed with a sweet, affectionate nature. These dogs, known for their strength and benevolence, stand tall at about 25 inches and weigh around 90 pounds. Their thick, silky, and moderately long tricolored coat—jet black, clear white, and rust—is distinctive, with unique markings that highlight their majestic nobility.\n Berners are generally placid but always up for a romp with their owners, whom they live to please. They thrive in cold weather, showcasing their resilience and hardiness, traits that helped them multitask on the farms and pastures of Switzerland. These gentle giants are particularly good with children and bond deeply with their families, though they often form a special attachment to one lucky human.\n With strangers, they maintain an aloof dignity, appearing imposing yet not threatening. Their moderate activity level and ease of training make them a wonderful addition to active families seeking a loyal and loving companion. Despite their size and strength, they are serene and benevolent, embodying the perfect blend of beauty, brains, and brawn.",
       "popularity": 4,
@@ -2253,7 +2253,7 @@
     "generalInformation": {
       "name": "English Setter",
       "group": "Sporting",
-      "personalityTraits": ["Friendly", "Calm", "Happy"],
+      "personalityTraits": ["Friendly", "Relaxed", "Happy"],
       "shortDescription": "The English Setter: a joyful, amicable, and relaxed sporting dog with stunning speckled coats.",
       "longDescription": "The English Setter is a medium-sized sporting breed known for its joyful, amicable, and relaxed nature. Standing around 25 inches tall and weighing about 60 pounds, this elegant yet solid dog captures hearts with its beauty and charm. Renowned for its striking speckled coat, or 'belton,' in liver, lemon, and orange hues, the English Setter’s silky, wavy fur is a showstopper.\n Beneath the glamorous exterior lies a well-balanced hunter, with a graceful neck, an oval-shaped head, and expressive dark brown eyes. Known as the gentleman of the dog world, this breed is both playful and well-mannered. English Setters are highly sociable, enjoying the company of both people and other dogs.\n Their adaptability, combined with an affectionate demeanor and ease of training, makes them a delight to share one's home with. This breed is a perfect companion for families, radiating a sense of joy and friendliness. Whether lounging around or engaging in spirited play, the English Setter is a dog that brings endless pleasure to its owners.",
       "popularity": 3,
@@ -2613,7 +2613,7 @@
     "generalInformation": {
       "name": "Anatolian Shepherd",
       "group": "Working",
-      "personalityTraits": ["Calm", "Independent", "Faithful"],
+      "personalityTraits": ["Relaxed", "Independent", "Faithful"],
       "shortDescription": "The Anatolian Shepherd Dog is a loyal, autonomous, and imposing flock guardian.",
       "longDescription": "The Anatolian Shepherd Dog, a member of the Working Group, is a majestic and imposing guardian of ancient lineage. Standing at around 30 inches tall and weighing up to 115 pounds, these muscular dogs are revered for their protective and territorial nature. Known for their faithfulness and reticence, Anatolians are autonomous and highly intelligent, making them exceptional working guard dogs.\n Their history dates back 6,000 years to the Bronze Age, giving them a timeless, no-frills quality. Anatolian Shepherds are incredibly loyal and will protect their flock—be it livestock, children, smaller dogs, or even the family cat—with unwavering intensity. Despite their large size and muscular build, they are nimble and well-adapted to harsh terrains.\n However, they require strong leadership from their owners, who must be willing and able to manage a dog as dominating and demanding as he is calm and loving. Anatolians are moderately adaptable and require a balance of physical activity and mental stimulation. While not particularly affectionate with family members, their dedication and protective instincts make them invaluable companions for those who understand and appreciate their unique traits.",
       "popularity": 3,
@@ -3198,7 +3198,7 @@
     "generalInformation": {
       "name": "Whippet",
       "group": "Hound",
-      "personalityTraits": ["Happy", "Loving", "Calm"],
+      "personalityTraits": ["Happy", "Loving", "Relaxed"],
       "shortDescription": "The serene and loving Whippet is a swift, low-maintenance, and affectionate companion.",
       "longDescription": "The Whippet is a sleek, sweet-faced breed known for its incredible speed and graceful appearance. Often referred to as the 'Poor Man's Racehorse,' this breed is lightning quick and loves to chase. Standing about 20 inches tall and weighing around 35 pounds, Whippets resemble a smaller Greyhound with their streamlined 'inverted S' body shape, deep chest, trim waist, and long, arched neck.\n Their serene and jovial nature makes them a loving companion, perfect for families and children, earning a top rating in family affection and child-friendliness. They enjoy playfulness and mental stimulation, often requiring bursts of intense activity followed by long, relaxed lounging. Ideal for both fenced yards and cozy apartments, Whippets adapt well as long as they get proper exercise.\n They are low-maintenance with minimal shedding and grooming needs, and their quiet demeanor makes them excellent for city living. Overall, Whippets are dignified, gentle, and robust dogs that bring joy and elegance to any home.",
       "popularity": 3,
@@ -3288,7 +3288,7 @@
     "generalInformation": {
       "name": "Rhodesian Ridgeback",
       "group": "Hound",
-      "personalityTraits": ["Dignified", "Loving", "Calm"],
+      "personalityTraits": ["Dignified", "Loving", "Relaxed"],
       "shortDescription": "The Rhodesian Ridgeback: a serene, stately, and loving hound with a distinctive back ridge.",
       "longDescription": "The Rhodesian Ridgeback, often referred to as the 'Renaissance hound,' is a serene, stately, and loving breed known for its hallmark ridge of backward-growing hair along its back. Originally famed in Africa for its prowess in tracking and baying lions, the Ridgeback has transitioned into a cherished family companion. Weighing between 70 to 85 pounds and standing around 25 inches tall, these powerful athletes exhibit remarkable speed and strength.\n Their sleek, smooth coat comes in shades of wheaten, complemented by either black or less common brown noses. Ridgebacks are known for their independence and strong prey drive, requiring firm but fair guidance from an early age. Despite their formidable presence, they are incredibly affectionate and protective towards their family.\n While they are excellent with children and adaptable to various environments, their strong-willed nature means they can be challenging for novice dog owners. With moderate activity levels and a need for mental stimulation, Rhodesian Ridgebacks make loyal and affectionate companions for those prepared to handle their unique blend of independence and devotion.",
       "popularity": 3,
@@ -3558,7 +3558,7 @@
     "generalInformation": {
       "name": "Great Pyrenees",
       "group": "Working",
-      "personalityTraits": ["Intelligent", "Tolerant", "Calm"],
+      "personalityTraits": ["Intelligent", "Tolerant", "Relaxed"],
       "shortDescription": "The Great Pyrenees is a majestic, serene guardian, known for its strength, wisdom, and tolerance.",
       "longDescription": "The Great Pyrenees is a majestic breed, exuding a serene and wise demeanor that belies its immense strength and tolerance. Originally bred to guard sheep from predators on snowy mountaintops, this working dog remains a vigilant protector and a mellow companion in modern homes. Standing tall at up to 30 inches and weighing around 95 pounds, the Great Pyrenees combines powerful physicality with a calm, Zen-like presence.\n Their lush, weatherproof coat, often pure white or marked with shades of gray, tan, reddish-brown, or badger, adds to their regal appearance. Despite their calm nature, these dogs can swiftly spring into action to address any threats, moving with surprising grace and speed. Affectionate with family and highly protective, they are moderately adaptable and benefit from regular mental and physical stimulation.\n Though they require moderate grooming and shed seasonally, their loyal and gentle nature makes them wonderful companions. Ideal for those seeking a steadfast, tolerant, and wise guardian, the Great Pyrenees is a breed that blends historical purpose with modern companionship beautifully.",
       "popularity": 3,
@@ -3693,7 +3693,7 @@
     "generalInformation": {
       "name": "Chinese Shar-Pei",
       "group": "Working",
-      "personalityTraits": ["Independent", "Faithful", "Calm"],
+      "personalityTraits": ["Independent", "Faithful", "Relaxed"],
       "shortDescription": "The Chinese Shar-Pei is a serene, autonomous, and faithful companion with unique physical traits.",
       "longDescription": "The Chinese Shar-Pei is a remarkable breed known for its serene demeanor, autonomy, and steadfast loyalty. Originating from ancient China, this medium-sized dog stands out with its distinctive appearance: a broad 'hippopotamus' muzzle, blue-black tongue, small sunken eyes, and tiny triangular ears. Its abundant folds of loose skin around the head, neck, and shoulders, along with a harsh, sandpapery coat, give it a truly unique look.\n The name Shar-Pei translates to 'sand skin,' reflecting its rough-textured coat. Weighing around 55 pounds and standing about 20 inches tall, the Shar-Pei is both strong and regal, making it an excellent guardian. Known for their intelligence and independence, Shar-Pei are deeply loyal to their families but tend to be wary of strangers and other dogs.\n While generally calm, they will respond to threats with tenacity and vigor. Early training and socialization are crucial for this breed to prevent dominance issues. With a moderate activity level and adaptability, the Shar-Pei is well-suited to various living environments, provided they receive proper training and care.\n This fascinating breed is a unique companion, blending ancient pedigree with a dignified and protective nature.",
       "popularity": 3,
@@ -3783,7 +3783,7 @@
     "generalInformation": {
       "name": "Basset Hound",
       "group": "Hound",
-      "personalityTraits": ["Companionable", "Tolerant", "Calm"],
+      "personalityTraits": ["Companionable", "Tolerant", "Relaxed"],
       "shortDescription": "The Basset Hound is a serene, captivating, and tolerant companion with a distinctively charming appearance.",
       "longDescription": "The Basset Hound, an endearing member of the hound group, is instantly recognizable and adored worldwide. With a height of 15 inches and a weight of around 55 pounds, this low-slung, low-key hound exudes big-dog strength and stamina in a small package. Known for their serene, captivating, and tolerant personality, Basset Hounds are ideal for families and sociable environments, though they can exhibit a stubborn streak.\n Their distinctive look includes a large, domed head, velvety long ears, mournful eyes, and a wrinkled brow, giving them a charming, almost sad clown appearance. Built for endurance rather than speed, they move with a deliberate but effortless gait and possess an exceptional sense of smell, second only to the Bloodhound. At home, they are mild and agreeable, displaying their loyalty through steadfast companionship.\n While their barking can be loud and frequent, their overall demeanor remains calm and collected. Despite a tendency to drool and moderate shedding, the Basset Hound's smooth, short coat is easy to maintain, making them a delightful and manageable pet for many households.",
       "popularity": 3,
@@ -4008,7 +4008,7 @@
     "generalInformation": {
       "name": "Pointer",
       "group": "Sporting",
-      "personalityTraits": ["Faithful", "Hardworking", "Calm"],
+      "personalityTraits": ["Faithful", "Hardworking", "Relaxed"],
       "shortDescription": "Serene, faithful, and industrious, Pointers are graceful sporting dogs and loyal companions.",
       "longDescription": "The Pointer is the ultimate expression of canine power and grace, renowned for their serene demeanor, faithfulness, and industrious nature. With a height of about 25 inches and a weight of around 60 pounds, these athletic dogs excel in agility and speed, making them exceptional companions for runners and active families. Their smooth, straight coat is low-maintenance, shedding moderately, and comes in a variety of colors, both solid and patterned.\n Pointers have been revered for centuries for their ability to point game birds, a testament to their sharp instincts and training ease. They are highly adaptable, scoring a 4 out of 5 in adaptability, and thrive in both rural and urban settings. With a lifespan of up to 15 years, these dogs are loyal and affectionate, making them excellent family pets.\n Their moderate vocalization and protective instincts balance well with their sociable nature, as they are very friendly towards strangers and other dogs. Pointers require regular mental stimulation and physical activity, enjoying playful interactions and energetic exercises. Overall, Pointers are noble, graceful dogs that bring joy and companionship to any household.",
       "popularity": 3,
@@ -4143,7 +4143,7 @@
     "generalInformation": {
       "name": "Irish Wolfhound",
       "group": "Hound",
-      "personalityTraits": ["Dignified", "Brave", "Calm"],
+      "personalityTraits": ["Dignified", "Brave", "Relaxed"],
       "shortDescription": "The serene and stately Irish Wolfhound is a brave, gentle giant, perfect for families.",
       "longDescription": "The Irish Wolfhound, a member of the Hound group, is renowned for its serene and stately demeanor. Standing nearly 3 feet tall and weighing up to 180 pounds, this majestic breed is the tallest of all AKC breeds. Once fearless hunters capable of taking down wolves, today’s Wolfhounds are calm, agreeable companions.\n Their muscular, Greyhound-like build allows for impressive speed, and their rough, hard coat comes in various colors, including white, gray, brindle, red, black, and fawn. With a family affection level of 5 out of 5, they are incredibly loving and patient, particularly with children. Despite their size, they are too gentle to serve as fierce guard dogs, though their imposing presence is often enough to deter intruders.\n While they adapt moderately well to different environments and have a relatively low vocalization frequency, owning an Irish Wolfhound requires a significant commitment due to their size and moderate activity level. Their coat needs occasional grooming, and they shed moderately. The Irish Wolfhound’s combination of bravery, gentleness, and grandeur makes them a unique and rewarding companion for those prepared for the commitment.",
       "popularity": 3,
@@ -4593,7 +4593,7 @@
     "generalInformation": {
       "name": "Ibizan Hound",
       "group": "Hound",
-      "personalityTraits": ["Friendly", "Calm", "Polite"],
+      "personalityTraits": ["Friendly", "Relaxed", "Polite"],
       "shortDescription": "The Ibizan Hound is a courteous, sociable, and serene rabbit courser with a sleek, elegant body.",
       "longDescription": "The Ibizan Hound, with its lithe and leggy build, is a serene and sociable breed that hails from the Balearic Islands of Spain. This elegant dog, reminiscent of ancient Egyptian motifs with its elongated head and large, erect ears, is an excellent sprinter and leaper, needing ample space to run freely. Standing at around 25 inches tall and weighing about 50 pounds, the Ibizan Hound sports a smooth, wire coat in solid red, white, or a combination of both, beautifully complemented by amber or caramel eyes and rosy-colored nose, eye rims, and lips.\n Known for their quiet grace, often described as deer-like, Ibizans are friendly and affectionate family dogs, excelling in social settings and getting along well with other dogs. While they have moderate protective instincts and adaptability, they require high levels of activity and mental stimulation. Their minimal shedding and low grooming needs make them a relatively low-maintenance breed.\n With a lifespan of around 13 years, the Ibizan Hound is a delightful and elegant companion, perfect for active families who can provide the space and exercise this breed craves.",
       "popularity": 2,
@@ -4638,7 +4638,7 @@
     "generalInformation": {
       "name": "Presa Canario",
       "group": "Guardian",
-      "personalityTraits": ["Independent", "Confident", "Calm"],
+      "personalityTraits": ["Independent", "Confident", "Relaxed"],
       "shortDescription": "The Presa Canario is a serene, self-assured guardian, known for its loyalty and protective instincts.",
       "longDescription": "The Presa Canario, a moderately large molossoid breed, is distinguished by its serene demeanor and self-assured nature. With a robust and well-proportioned body, rectilinear profile, and signature black mask, this dog is both striking and powerful.\n Historically used for herding cattle, the Presa Canario is especially suited to guarding, a role in which it excels due to its vigilant and firm stance when alert. Despite its calm appearance and attentive expression, this breed can be stubborn, requiring a confident and experienced handler for training.\nWith family members, the Presa Canario is obedient, docile, and exceptionally devoted, forming strong bonds with its master. However, it tends to be wary of strangers and has a protective instinct that is second to none, making it an excellent guardian.\n This breed has a low, deep bark that can serve as an effective deterrent to potential intruders. Though not particularly playful or friendly towards children and other dogs, the Presa Canario's loyalty and protective nature make it a cherished companion for those who understand and appreciate its unique qualities.\nOwners should be aware of the breed's moderate activity level and need for mental stimulation, along with its grooming needs, which are minimal due to its smooth, straight coat. The Presa Canario is a steadfast and imposing guardian, perfect for those seeking a devoted and protective companion.",
       "popularity": 2,
@@ -4728,7 +4728,7 @@
     "generalInformation": {
       "name": "Boerboel",
       "group": "Guardian",
-      "personalityTraits": ["Intelligent", "Confident", "Calm"],
+      "personalityTraits": ["Intelligent", "Confident", "Relaxed"],
       "shortDescription": "The Boerboel is a serene, clever, and self-assured guardian devoted to protecting family and home.",
       "longDescription": "Boerboels are formidable guardians, historically bred to protect remote South African homesteads from dangerous predators. Standing at around 25 inches tall and weighing up to 175 pounds, these dogs possess a broad, blocky head, powerful jaws, and a sleek, muscular build that showcases their lineage from the ancient 'molloser' dogs, the ancestors of today's mastiff breeds. Despite their imposing appearance, Boerboels are serene, clever, and self-assured, making them excellent protectors and companions.\nTheir agile movement sets them apart from other mastiff types, and their dominant yet trainable nature requires early training and socialization to prevent them from becoming overly dominant adults. Boerboels are bright and eager learners, thriving on mental stimulation and regular interaction with their loved ones.\n With their unwavering loyalty and affectionate demeanor towards family members, they score high on family affection. However, their strong protective instincts and substantial size mean they may not be suitable for novice dog owners.\nThis breed’s smooth, straight coat is easy to maintain, and while they shed moderately, their grooming needs are relatively low. Boerboels are moderately adaptable, somewhat sociable with other dogs, and have a balanced level of activity and vocalization.\n While they might not be the most popular breed, their unique combination of intelligence, agility, and devotion makes them a beloved guardian for experienced owners.",
       "popularity": 2,
@@ -4953,7 +4953,7 @@
     "generalInformation": {
       "name": "Mexican hairless dog",
       "group": "Companion",
-      "personalityTraits": ["Vigilant", "Faithful", "Calm"],
+      "personalityTraits": ["Vigilant", "Faithful", "Relaxed"],
       "shortDescription": "The serene, vigilant, and faithful Xoloitzcuintli is a smooth-skinned, ancient Aztec companion.",
       "longDescription": "The Xoloitzcuintli (pronounced 'show-low-eats-QUEENT-lee'), also known as the Mexican Hairless Dog, is a serene and vigilant breed that dates back over 3,000 years. Once revered by the Aztecs as a sacred dog of the gods, today the Xolo is a devoted companion and alert watchdog. This breed comes in three sizes—toy, miniature, and standard—and two varieties: hairless and coated.\n The hairless Xolo has tough, smooth skin, while the coated variety boasts a short, flat coat. Their colors range from black and gray-black to red, liver, and bronze. Known for their thoughtful and intelligent expressions, Xolos often have a wrinkled forehead when deep in thought.\n Despite their elegant and graceful appearance, they are surprisingly strong and rugged. Highly adaptable, they thrive in various environments and require moderate exercise. With a lifespan of up to 15 years, these dogs form deep bonds with their families and excel in loyalty and protectiveness.\n Their low grooming needs and minimal shedding make them an excellent choice for those seeking a unique, affectionate, and low-maintenance companion.",
       "popularity": 2,
@@ -4998,7 +4998,7 @@
     "generalInformation": {
       "name": "Welsh Springer Spaniel",
       "group": "Sporting",
-      "personalityTraits": ["Happy", "Calm", "Friendly"],
+      "personalityTraits": ["Happy", "Relaxed", "Friendly"],
       "shortDescription": "The Welsh Springer Spaniel is a joyful, reticent, and positive medium-sized sporting dog with striking red and white coats.",
       "longDescription": "The Welsh Springer Spaniel is a vigorous and joyful medium-sized bird dog known for its versatility in the field and affectionate nature at home. Standing around 18 inches tall and weighing approximately 45 pounds, this breed is larger than a Cocker Spaniel but smaller than an English Springer, making it a perfect 'handy size' for many dog lovers. With a lifespan of about 14 years, Welshies are known for their positive and reticent disposition, bringing a mix of enthusiasm and calmness to their families.\n Their beautiful, wavy, silky red and white coats are not just for show—they are waterproof, weatherproof, and thornproof, allowing these dogs to excel in various climates and terrains. Highly trainable and adaptable, they score high in family affection, child-friendliness, and mental stimulation needs. They are moderately active and playful, making them great companions for active families.\n Despite their friendly nature, they are somewhat reserved with strangers, providing a good balance of sociability and protective instincts. Low on salivation and moderate in shedding, their grooming needs are relatively manageable. Overall, the Welsh Springer Spaniel is a delightful breed that brings joy and companionship to any household, making it a cherished family member and an excellent sporting partner.",
       "popularity": 2,
@@ -5313,7 +5313,7 @@
     "generalInformation": {
       "name": "Lagotto Romagnolo",
       "group": "Sporting",
-      "personalityTraits": ["Loving", "Vigilant", "Calm"],
+      "personalityTraits": ["Loving", "Vigilant", "Relaxed"],
       "shortDescription": "The Lagotto Romagnolo is a relaxed, loving, and observant truffle-hunting dog with a curly, low-shedding coat.",
       "longDescription": "The Lagotto Romagnolo, Italy's endearing 'truffle dog,' is a delightful blend of charm and utility. Known for their distinctive curly coat that resembles human hair, these dogs are as rugged as they are adorable.\n Standing at around 18 inches tall and weighing about 30 pounds, Lagotti sport lavish facial furnishings, including a beard, eyebrows, and whiskers, which add to their plush-toy appearance. However, don’t be fooled by their cute exterior; these dogs are durable workers with an exceptional sense of smell, historically bred to root out truffles, a prized delicacy.\nLagotti are deeply affectionate and observant, making them wonderful companions. They bond closely with their families, earning a top rating for family affection. Despite their moderate size, they are robust and adaptable, thriving in various living conditions.\n They are relatively easy to train, thanks to their intelligence and eagerness to please. Their low vocalization and minimal shedding make them a joy to have around the house.\nThis breed is also known for its playful and friendly nature, getting along well with children and other dogs. Their activity level and need for mental stimulation are high, so they enjoy engaging in activities and games that challenge their keen senses.\n With a lifespan of around 15 years, the Lagotto Romagnolo offers years of loving companionship, making them a perfect choice for those looking to discover a devoted and lively canine companion.",
       "popularity": 2,
@@ -5583,7 +5583,7 @@
     "generalInformation": {
       "name": "American Foxhound",
       "group": "Hound",
-      "personalityTraits": ["Independent", "Calm", "Loving"],
+      "personalityTraits": ["Independent", "Relaxed", "Loving"],
       "shortDescription": "The American Foxhound is a tender, relaxed, and autonomous hound, known for its speed and endurance.",
       "longDescription": "The American Foxhound is a breed steeped in American history, often associated with Revolutionary heroes and the grand estates of Virginia. This sleek and rangy hound is distinguished by its long, finely boned legs and slightly arched loin, setting it apart from its English cousin.\n Known for their tender nature and relaxed demeanor, American Foxhounds make excellent family pets, getting along well with children, other dogs, and even cats. Their large, soft eyes and gentle expression only add to their appeal.\nHowever, owning an American Foxhound comes with special considerations. They are highly energetic and require substantial exercise to prevent depression and destructive behaviors. Their strong prey drive needs to be managed carefully, as they can be quite single-minded when on a scent.\n Additionally, their loud and melodious bawling, while endearing to hound enthusiasts, might not be as appreciated by neighbors. Training and housebreaking these autonomous dogs can be challenging, especially for novice owners. Despite these challenges, their low-maintenance coat and endearing personality make them a rewarding companion for those willing to meet their needs.",
       "popularity": 2,
@@ -6348,7 +6348,7 @@
     "generalInformation": {
       "name": "Black and Tan Coonhound",
       "group": "Hound",
-      "personalityTraits": ["Calm", "Intelligent", "Brave"],
+      "personalityTraits": ["Relaxed", "Intelligent", "Brave"],
       "shortDescription": "The Black and Tan Coonhound is a friendly, intelligent, and relaxed American hunting breed.",
       "longDescription": "The Black and Tan Coonhound is a large, athletic hound renowned for its bravery, intelligence, and relaxed demeanor. Standing around 25 inches tall and weighing up to 90 pounds, this breed is a tenacious hunter at night, particularly skilled in tracking raccoons with its incredibly sensitive nose and long, velvety ears. Their coal-black coat with rich tan accents, including distinctive 'pumpkin seeds' above their expressive eyes, makes them easily recognizable.\n Black and Tan Coonhounds are sociable and affectionate, thriving on companionship and often forming strong bonds with their families. They are known for their loud, mournful 'music' when lonely, making them well-suited to active families who can keep them engaged and entertained. Despite their hunting prowess, they are equally content to lounge on the sofa for hours.\n Their strong prey drive requires a sturdy leash and fence to keep them safe. While their easygoing nature and playful spirit make them excellent companions, they might be too much for a less active owner. Nonetheless, the Black and Tan Coonhound is a true American original, offering a blend of work ethic and affectionate companionship.",
       "popularity": 2,
@@ -6708,7 +6708,7 @@
     "generalInformation": {
       "name": "Redbone Coonhound",
       "group": "Hound",
-      "personalityTraits": ["Obedient", "Calm", "Friendly"],
+      "personalityTraits": ["Obedient", "Relaxed", "Friendly"],
       "shortDescription": "The Redbone Coonhound is a serene, amicable, and compliant hound with a sleek red coat.",
       "longDescription": "The Redbone Coonhound, an American classic, exudes an even-tempered and mellow disposition at home, transforming into a vigorous, trail-blazing hunter outdoors. Standing at 25 inches and weighing around 60 pounds, this medium-to-large hound is marked by its sleek, stunning red coat that shimmers over well-defined muscles, giving an impression of being sculpted from mahogany. The breed's houndy head, with long ears and pleading brown eyes, adds to its endearing appeal.\n Known for its adaptability, the Redbone Coonhound balances between energetic activities like hunting and swimming and restful lounging. They are highly affectionate with family and sociable with children and other dogs, making them excellent companions. Though they have a moderate activity level, they thrive with mental stimulation and vigorous exercise.\n Their grooming needs are minimal, with a smooth, straight coat that sheds moderately. Overall, the Redbone Coonhound is a friendly, trainable, and serene breed, ideal for active families who appreciate both its hunting prowess and gentle nature at home.",
       "popularity": 2,
@@ -7428,7 +7428,7 @@
     "generalInformation": {
       "name": "Clumber Spaniel",
       "group": "Sporting",
-      "personalityTraits": ["Calm", "Playful", "Polite"],
+      "personalityTraits": ["Relaxed", "Playful", "Polite"],
       "shortDescription": "Courteous and relaxed, the Clumber Spaniel is an entertaining and amiable companion.",
       "longDescription": "The Clumber Spaniel, the largest of the AKC flushing spaniels, is a dignified and mellow hunting companion historically favored by kings. Standing 17 to 20 inches tall and weighing between 55 to 85 pounds, this breed is built long and low with a massive head and heavy bones. The Clumber Spaniel’s dense, primarily white coat features sparse lemon or orange markings and requires regular grooming to maintain its silky, wavy texture.\n At home, Clumber Spaniels are sweet, easygoing, and courteous, making them gentle and amusing housemates. They have a relaxed demeanor but are relentless scent hounds when outdoors, showcasing free and easy movement even through thick cover. These smart, eager-to-please dogs respond well to training and enjoy activities like swimming and fetching.\n While they are a bit wary of strangers, Clumbers are generally friendly and only bark when necessary, making them indifferent watchdogs. Their entertaining and relaxed nature, combined with their adaptability and amiability, makes the Clumber Spaniel a beloved companion for families and individuals alike.",
       "popularity": 1,
@@ -7968,7 +7968,7 @@
     "generalInformation": {
       "name": "Skye Terrier",
       "group": "Terrier",
-      "personalityTraits": ["Brave", "Calm", "Intelligent"],
+      "personalityTraits": ["Brave", "Relaxed", "Intelligent"],
       "shortDescription": "The Skye Terrier: an elegant, brave, and serene companion with a distinctive, long, low profile.",
       "longDescription": "The Skye Terrier is a strikingly unique breed, known for its long, low, and level silhouette. This elegant yet sturdy terrier stands about 10 inches tall and weighs around 40 pounds, sporting a long, flat-lying coat with a rough texture. Their distinctive appearance is enhanced by a charming peekaboo hairdo and the option of either big, feathery bat-like ears or 'drop ears' that lie flat.\n Bred originally as an exterminator on Scotland's remote Isle of Skye, these dogs are intelligent, brave, and serene, making them wonderful companions. Despite their aristocratic appearance, Skyes are muscular and substantial, with short legs and a deep chest, giving them a profile that is twice as long as they are high. They are known for their strong family affection, moderate adaptability, and protective instincts, making them a balanced choice for various lifestyles.\n Their activity level, playfulness, and friendliness to strangers are moderate, ensuring they fit well into both active and relaxed households. With regular grooming to maintain their luxurious coat, Skye Terriers bring both elegance and a lion-hearted spirit to their families.",
       "popularity": 1,
