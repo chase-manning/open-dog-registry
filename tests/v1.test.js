@@ -1,6 +1,8 @@
 const data = require("../data/v1.json");
 const fs = require("fs");
 
+const IMAGE_TYPES = ["indoors", "outdoors", "studio"];
+
 test("adds 1 + 2 to equal 3", () => {
   expect(1 + 2).toBe(3);
 });
@@ -107,9 +109,9 @@ test("all the images exist", () => {
   const ids = data.map((item) => item.id);
 
   for (const id of ids) {
-    // Test indoors
-    console.log(id);
-    const path = `../images/${id}/indoors.png`;
-    expect(fs.existsSync(path)).toBe(true);
+    for (const type of IMAGE_TYPES) {
+      const path = `../images/${id}/${type}.png`;
+      expect(fs.existsSync(path)).toBe(true);
+    }
   }
 });
