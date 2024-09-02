@@ -227,14 +227,34 @@ Is a positive integeter between 1 and 5 (inclusive). Where 1 is difficult to tra
 
 ### Images
 
-#### `indoors`
+#### Small
+
+Small jpg photos of the dog breed (512px by 512px):
+
+##### `indoors`
 
 A link to a photo of the dog indoors, usually in a home environment.
 
-#### `outdoors`
+##### `outdoors`
 
 A link to a photo of the dog outdoors, usually out on a walk in nature.
 
-#### `studio`
+##### `studio`
+
+A link to a photo of the dog in a professional studio with a white backdrop.
+
+#### Large
+
+Large png photos of the dog breed (1024px by 1024px):
+
+##### `indoors`
+
+A link to a photo of the dog indoors, usually in a home environment.
+
+##### `outdoors`
+
+A link to a photo of the dog outdoors, usually out on a walk in nature.
+
+##### `studio`
 
 A link to a photo of the dog in a professional studio with a white backdrop.
