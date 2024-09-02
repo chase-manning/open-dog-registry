@@ -2,6 +2,7 @@ const data = require("../data/v1.json");
 const fs = require("fs");
 
 const IMAGE_TYPES = ["indoors", "outdoors", "studio"];
+const IMAGE_SIZES = ["small", "large"];
 
 test("has some data", () => {
   expect(data.length).toBeGreaterThan(0);
@@ -106,8 +107,11 @@ test("all the images exist", () => {
 
   for (const id of ids) {
     for (const type of IMAGE_TYPES) {
-      const path = `../images/${id}/${type}.png`;
-      expect(fs.existsSync(path)).toBe(true);
+      for (const size of IMAGE_SIZES) {
+        const extension = size === "small" ? "jpg" : "png";
+        const path = `../images/${id}/${size}/${type}.${extension}`;
+        expect(fs.existsSync(path)).toBe(true);
+      }
     }
   }
 });
@@ -116,12 +120,14 @@ test("there are no duplicate images", () => {
   const ids = data.map((item) => item.id);
 
   for (const id of ids) {
-    console.log(id);
     for (let i = 0; i < IMAGE_TYPES.length; i++) {
       for (let j = i + 1; j < IMAGE_TYPES.length; j++) {
-        const path1 = `../images/${id}/${IMAGE_TYPES[i]}.png`;
-        const path2 = `../images/${id}/${IMAGE_TYPES[j]}.png`;
-        expect(fs.readFileSync(path1)).not.toEqual(fs.readFileSync(path2));
+        for (const size of IMAGE_SIZES) {
+          const extension = size === "small" ? "jpg" : "png";
+          const path1 = `../images/${id}/${size}/${IMAGE_TYPES[i]}.${extension}`;
+          const path2 = `../images/${id}/${size}/${IMAGE_TYPES[j]}.${extension}`;
+          expect(fs.readFileSync(path1)).not.toEqual(fs.readFileSync(path2));
+        }
       }
     }
   }
