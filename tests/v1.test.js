@@ -3,10 +3,6 @@ const fs = require("fs");
 
 const IMAGE_TYPES = ["indoors", "outdoors", "studio"];
 
-test("adds 1 + 2 to equal 3", () => {
-  expect(1 + 2).toBe(3);
-});
-
 test("has some data", () => {
   expect(data.length).toBeGreaterThan(0);
 });
