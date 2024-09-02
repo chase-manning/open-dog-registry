@@ -148,7 +148,7 @@ Describes the typical texture of a dog's coat, such as rough, silky, or smooth.
 
 #### `coatLength`
 
-This label describes the length of a dog’s fur from the skin to the tip. It affects the dog's overall appearance and can influence grooming needs and seasonal care.  
+This label describes the length of a dog's fur from the skin to the tip. It affects the dog's overall appearance and can influence grooming needs and seasonal care.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is short fur and 5 is long fur.
 
 #### `doubleCoat`
