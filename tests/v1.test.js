@@ -111,3 +111,18 @@ test("all the images exist", () => {
     }
   }
 });
+
+test("there are no duplicate images", () => {
+  const ids = data.map((item) => item.id);
+
+  for (const id of ids) {
+    console.log(id);
+    for (let i = 0; i < IMAGE_TYPES.length; i++) {
+      for (let j = i + 1; j < IMAGE_TYPES.length; j++) {
+        const path1 = `../images/${id}/${IMAGE_TYPES[i]}.png`;
+        const path2 = `../images/${id}/${IMAGE_TYPES[j]}.png`;
+        expect(fs.readFileSync(path1)).not.toEqual(fs.readFileSync(path2));
+      }
+    }
+  }
+});
