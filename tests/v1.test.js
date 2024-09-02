@@ -92,13 +92,21 @@ test("there are no missing data points", () => {
     expect(careRequirements.trainingEase).toBeDefined();
     expect(typeof careRequirements.trainingEase).toBe("number");
 
-    // Test Images
-    expect(images.indoors).toBeDefined();
-    expect(typeof images.indoors).toBe("string");
-    expect(images.outdoors).toBeDefined();
-    expect(typeof images.outdoors).toBe("string");
-    expect(images.studio).toBeDefined();
-    expect(typeof images.studio).toBe("string");
+    // Test Large Images
+    expect(images.large.indoors).toBeDefined();
+    expect(typeof images.large.indoors).toBe("string");
+    expect(images.large.outdoors).toBeDefined();
+    expect(typeof images.large.outdoors).toBe("string");
+    expect(images.large.studio).toBeDefined();
+    expect(typeof images.large.studio).toBe("string");
+
+    // Test Small Images
+    expect(images.small.indoors).toBeDefined();
+    expect(typeof images.small.indoors).toBe("string");
+    expect(images.small.outdoors).toBeDefined();
+    expect(typeof images.small.outdoors).toBe("string");
+    expect(images.small.studio).toBeDefined();
+    expect(typeof images.small.studio).toBe("string");
   }
 });
 
