@@ -139,7 +139,7 @@
       "coatGroomingFrequency": 5,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -191,7 +191,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -243,7 +243,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -295,7 +295,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -347,7 +347,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -399,7 +399,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -503,7 +503,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -555,7 +555,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -607,7 +607,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -711,7 +711,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -763,7 +763,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -815,7 +815,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -867,7 +867,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -919,7 +919,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 3,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -971,7 +971,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -1023,7 +1023,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -1075,7 +1075,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -1127,7 +1127,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -1231,7 +1231,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -1283,7 +1283,7 @@
       "coatGroomingFrequency": 5,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -1387,7 +1387,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -1491,7 +1491,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -1543,7 +1543,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -1595,7 +1595,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -1647,7 +1647,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -1751,7 +1751,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -1803,7 +1803,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -1855,7 +1855,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -1907,7 +1907,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -1959,7 +1959,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -2011,7 +2011,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -2063,7 +2063,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 3,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -2219,7 +2219,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -2323,7 +2323,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -2375,7 +2375,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -2427,7 +2427,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -2531,7 +2531,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -2635,7 +2635,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -2687,7 +2687,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 2
+      "trainingEase": 4
     },
     "images": {
       "small": {
@@ -2739,7 +2739,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -2791,7 +2791,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -2843,7 +2843,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -2895,7 +2895,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -2947,7 +2947,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -2999,7 +2999,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -3051,7 +3051,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 2
+      "trainingEase": 4
     },
     "images": {
       "small": {
@@ -3103,7 +3103,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -3155,7 +3155,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -3207,7 +3207,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -3259,7 +3259,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -3311,7 +3311,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -3363,7 +3363,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -3415,7 +3415,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -3467,7 +3467,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -3571,7 +3571,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -3675,7 +3675,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -3779,7 +3779,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 1,
       "mentalStimulationRequirements": 1,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -3831,7 +3831,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -3987,7 +3987,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -4039,7 +4039,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -4195,7 +4195,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -4247,7 +4247,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -4351,7 +4351,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 1
+      "trainingEase": 5
     },
     "images": {
       "small": {
@@ -4455,7 +4455,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -4611,7 +4611,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -4663,7 +4663,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -4715,7 +4715,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -4871,7 +4871,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -4923,7 +4923,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -5079,7 +5079,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 2
+      "trainingEase": 4
     },
     "images": {
       "small": {
@@ -5131,7 +5131,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -5183,7 +5183,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -5287,7 +5287,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -5495,7 +5495,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -5599,7 +5599,7 @@
       "coatGroomingFrequency": 5,
       "activityLevel": 3,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -5755,7 +5755,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -5807,7 +5807,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -5859,7 +5859,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 2
+      "trainingEase": 4
     },
     "images": {
       "small": {
@@ -5911,7 +5911,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -6015,7 +6015,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -6067,7 +6067,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -6171,7 +6171,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -6223,7 +6223,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -6379,7 +6379,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -6639,7 +6639,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -6691,7 +6691,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -6743,7 +6743,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 5,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -6795,7 +6795,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -6847,7 +6847,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -6899,7 +6899,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -6951,7 +6951,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -7003,7 +7003,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -7055,7 +7055,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -7107,7 +7107,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 3,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -7211,7 +7211,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -7315,7 +7315,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -7419,7 +7419,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -7523,7 +7523,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -7575,7 +7575,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -7627,7 +7627,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -7679,7 +7679,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -7835,7 +7835,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -7887,7 +7887,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -7939,7 +7939,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 5,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -8095,7 +8095,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -8147,7 +8147,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -8199,7 +8199,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -8251,7 +8251,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -8303,7 +8303,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -8459,7 +8459,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 2,
       "mentalStimulationRequirements": 2,
-      "trainingEase": 2
+      "trainingEase": 4
     },
     "images": {
       "small": {
@@ -8563,7 +8563,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -8615,7 +8615,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -8719,7 +8719,7 @@
       "coatGroomingFrequency": 4,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -8823,7 +8823,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -8875,7 +8875,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 4,
       "mentalStimulationRequirements": 4,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -8927,7 +8927,7 @@
       "coatGroomingFrequency": 1,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -8979,7 +8979,7 @@
       "coatGroomingFrequency": 3,
       "activityLevel": 3,
       "mentalStimulationRequirements": 5,
-      "trainingEase": 5
+      "trainingEase": 1
     },
     "images": {
       "small": {
@@ -9083,7 +9083,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 4,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 4
+      "trainingEase": 2
     },
     "images": {
       "small": {
@@ -9395,7 +9395,7 @@
       "coatGroomingFrequency": 2,
       "activityLevel": 3,
       "mentalStimulationRequirements": 3,
-      "trainingEase": 2
+      "trainingEase": 4
     },
     "images": {
       "small": {
