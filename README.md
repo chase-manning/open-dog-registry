@@ -30,7 +30,7 @@ The response is in the following format:
   "data": [
     {
       id: string;
-      generalInformation: {
+      general: {
           name: string;
           group: string;
           personalityTraits: string[];
@@ -39,33 +39,33 @@ The response is in the following format:
           popularity: number;
           height: number;
           weight: number;
-          lifeExpectancy: number;
+          lifespan: number;
       };
-      physicalCharacteristics: {
+      physical: {
           size: number;
           lifespan: number;
-          salivationTendency: number;
+          droolingFrequency: number;
           coatStyle: string;
           coatTexture: string;
           coatLength: number;
           doubleCoat: boolean;
       };
-      behavioralTraits: {
-          familyAffectionLevel: number;
+      behavior: {
+          familyAffection: number;
           childFriendly: number;
           dogSociability: number;
           friendlinessToStrangers: number;
-          playfulnessLevel: number;
+          playfulness: number;
           protectiveInstincts: number;
-          adaptabilityRating: number;
-          vocalizationFrequency: number;
+          adaptability: number;
+          barkingFrequency: number;
       };
-      careRequirements: {
-          coatSheddingLevel: number;
-          coatGroomingFrequency: number;
-          activityLevel: number;
-          mentalStimulationRequirements: number;
-          trainingEase: number;
+      care: {
+          sheddingAmount: number;
+          groomingFrequency: number;
+          exerciseNeeds: number;
+          mentalStimulationNeeds: number;
+          trainingDifficulty: number;
       };
       images: {
           indoors: string;
@@ -117,7 +117,7 @@ This is the typical height of the dog breed measured in inches, representing how
 
 The weight of the dog breed in pounds. This value helps indicate the general size and build of the breed, providing an idea of how heavy an average dog of this breed might be.
 
-#### `lifeExpectancy`
+#### `lifespan`
 
 The typical number of years a dog is expected to live, on average.
 
@@ -133,7 +133,7 @@ Is a positive integeter between 1 and 5 (inclusive). Where 1 is small and 5 is l
 The average length of life for the breed compared to other dogs.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is short and 5 is long.
 
-#### `salivationTendency`
+#### `droolingFrequency`
 
 This indicates how likely a breed is to drool. For those who prefer a tidier environment, breeds with high salivation tendencies may not be ideal as they can leave drool on your clothes and furniture.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is low drooling tendency and 5 is High drooling tendency.
@@ -158,7 +158,7 @@ Is a boolean value, true for double coated and false for not.
 
 ### Behavioral Traits
 
-#### `familyAffectionLevel`
+#### `familyAffection`
 
 Indicates how affectionate a breed is likely to be with family members or other familiar people. Some breeds may show affection primarily to their owner, while others are friendly and affectionate with everyone they know well.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is reserved and 5 is very affectionate.
@@ -178,7 +178,7 @@ Is a positive integeter between 1 and 5 (inclusive). Where 1 is reserved and 5 i
 This metric indicates how welcoming a breed is likely to be towards strangers. Some breeds may be reserved or cautious around new people, while others will be eager and happy to meet someone new, regardless of the location.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is reserved and 5 is very friendly.
 
-#### `playfulnessLevel`
+#### `playfulness`
 
 Indicates how enthusiastic a breed is about play, even beyond puppyhood. Some breeds remain eager to engage in activities like tug-of-war or fetch well into their adult years, while others may prefer to relax more often.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is relaxed and 5 is very playful.
@@ -188,39 +188,39 @@ Is a positive integeter between 1 and 5 (inclusive). Where 1 is relaxed and 5 is
 This measures a breed's tendency to alert you to the presence of strangers or potential threats. Breeds with strong protective instincts are more likely to react to unfamiliar people or animals, whether it's the mailman or a squirrel outside. They typically become friendly towards strangers who are welcomed by their family.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is less alert and 5 is highly vigilant.
 
-#### `adaptabilityRating`
+#### `adaptability`
 
 This rating indicates how easily a breed adapts to changes in their environment, including living conditions, noise levels, weather, daily schedules, and other day-to-day variations.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is poorly adaptable and 5 is highly adaptable.
 
-#### `vocalizationFrequency`
+#### `barkingFrequency`
 
 This measures how frequently a breed vocalizes, including barking and howling. While some breeds are highly vocal and bark at almost anything, others are more reserved and only bark in specific situations. Note that even barkless breeds may use other sounds to express themselves.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is rarely vocalizes and 5 is very vocal.
 
 ### Care Requirements
 
-#### `coatSheddingLevel`
+#### `sheddingAmount`
 
 Indicates the amount of fur and hair the breed typically sheds. Higher shedding levels mean more frequent brushing is needed, higher chances of triggering allergies, and more frequent cleaning tasks like vacuuming and lint-rolling.
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is low shedding and 5 is high shedding.
 
-#### `coatGroomingFrequency`
+#### `groomingFrequency`
 
 This indicates how often a breed needs bathing, brushing, trimming, or other types of coat maintenance. Consider your available time, patience, and budget for grooming when evaluating this aspect. Note that all breeds need regular nail trimming.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is low maintenance and 5 is high maintenance.
 
-#### `activityLevel`
+#### `exerciseNeeds`
 
 Indicates the required amount of physical exercise and mental stimulation for a dog breed. High activity level dogs are lively, always ready for their next adventure, and need plenty of playtime. Low activity level dogs are more laid-back and content with minimal activity.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is a couch potato and 5 is an energetic explorer.
 
-#### `mentalStimulationRequirements`
+#### `mentalStimulationNeeds`
 
 Indicates how much mental stimulation a breed needs to stay happy and healthy. Breeds with high mental stimulation needs may require activities that involve decision-making, problem-solving, and concentration. Without sufficient mental engagement, these dogs might create their own activities, which may be undesirable.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is low needs and 5 is high needs.
 
-#### `trainingEase`
+#### `trainingDifficulty`
 
 Indicates how easy it is to train your dog and their willingness to learn new commands and behaviors. Some breeds are eager to please and quick to learn, while others may be more independent and stubborn.  
 Is a positive integeter between 1 and 5 (inclusive). Where 1 is difficult to train and 5 is highly trainable.
