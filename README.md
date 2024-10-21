@@ -18,6 +18,14 @@ We do ask though that if you use the API, to please:
 - Mention in your project that you used our API and link to this repository.
 - [Consider donating](https://buymeacoffee.com/chase8) if you found this API helpful
 
+## Projects built using Open Dog Registry API
+
+<a href="https://dogmatch.me/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a56312e7-8f10-4b01-b213-36127114f3ff" width="400px" />
+</a>
+
+(Raise a PR to add your own project)
+
 ## API Docs
 
 The endpoint of the API is `https://registry.dog/api/v1`.
