@@ -9410,5 +9410,1461 @@
       }
     },
     "id": "azawakh"
+  },
+  {
+    "general": {
+      "name": "Puggle",
+      "group": "Companion",
+      "personalityTraits": ["Companionable", "Loving", "Playful"],
+      "shortDescription": "The Puggle is a delightful mix of Pug and Beagle, known for its friendly and playful personality.",
+      "longDescription": "The Puggle is a hybrid breed combining the charm of the Pug with the curiosity of the Beagle. This medium-sized dog, typically weighing 15-30 pounds, boasts a wrinkled face, expressive eyes, and a smooth coat in various colors.\n\nPuggles are incredibly sociable and thrive on companionship, making them excellent family pets. They inherit the Pug's affectionate nature and the Beagle's energetic curiosity, resulting in a lively and engaging temperament.\n\nWhile their playful antics are endearing, Puggles can be vocal, so early training is recommended to manage their occasional barking. Adaptable and affectionate, they bring joy and laughter to any home.",
+      "popularity": 5,
+      "height": 14,
+      "weight": 20,
+      "lifespan": 14
+    },
+    "physical": {
+      "size": 2,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Straight",
+      "coatTexture": "Smooth",
+      "coatLength": 1,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 4,
+      "childFriendly": 5,
+      "dogSociability": 5,
+      "friendlinessToStrangers": 4,
+      "playfulness": 5,
+      "protectiveInstincts": 3,
+      "adaptability": 5,
+      "barkingFrequency": 3
+    },
+    "care": {
+      "sheddingAmount": 4,
+      "groomingFrequency": 2,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 3
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/puggle/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/puggle/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/puggle/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/puggle/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/puggle/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/puggle/large/studio.png"
+      }
+    },
+    "id": "puggle"
+  },
+  {
+    "general": {
+      "name": "Chiweenie",
+      "group": "Companion",
+      "personalityTraits": ["Companionable", "Dignified", "Lively"],
+      "shortDescription": "The Chiweenie is a spunky mix of Chihuahua and Dachshund, known for its affectionate and spirited nature.",
+      "longDescription": "The Chiweenie, a cross between the Chihuahua and Dachshund, is a small but mighty companion with a lively and loving disposition. Typically weighing 5-12 pounds, this hybrid has a sleek or slightly wavy coat and a distinctive long body inherited from its Dachshund parent.\n\nKnown for their devotion, Chiweenies are highly loyal to their families and make excellent lap dogs. They have a playful, sometimes feisty attitude, reflecting their Chihuahua lineage.\n\nThese little dogs are adaptable to apartment living and enjoy moderate exercise. While their spirited nature is endearing, they can be wary of strangers and require gentle socialization.",
+      "popularity": 5,
+      "height": 7,
+      "weight": 13,
+      "lifespan": 15
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 2,
+      "coatStyle": "Straight",
+      "coatTexture": "Smooth",
+      "coatLength": 2,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 2,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 3,
+      "playfulness": 4,
+      "protectiveInstincts": 4,
+      "adaptability": 4,
+      "barkingFrequency": 5
+    },
+    "care": {
+      "sheddingAmount": 2,
+      "groomingFrequency": 2,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 3,
+      "trainingDifficulty": 3
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chiweenie/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chiweenie/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chiweenie/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chiweenie/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chiweenie/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chiweenie/large/studio.png"
+      }
+    },
+    "id": "chiweenie"
+  },
+  {
+    "general": {
+      "name": "Labradoodle",
+      "group": "Sporting",
+      "personalityTraits": ["Friendly", "Lively", "Loving"],
+      "shortDescription": "The Labradoodle is a friendly, energetic hybrid of the Labrador Retriever and Poodle.",
+      "longDescription": "The Labradoodle, a crossbreed between the Labrador Retriever and Poodle, is a popular companion known for its intelligence, sociable nature, and hypoallergenic coat. Labradoodles vary in size depending on the Poodle parent, ranging from 15 to 65 pounds.\n\nTheir curly or wavy coat comes in various colors, requiring regular grooming to maintain its texture. Labradoodles are exceptionally friendly, excelling as family pets and therapy dogs.\n\nThey are energetic, intelligent, and eager to please, making them easy to train and perfect for active households. Their gentle temperament and adaptability endear them to people of all ages.",
+      "popularity": 5,
+      "height": 20,
+      "weight": 63,
+      "lifespan": 14
+    },
+    "physical": {
+      "size": 3,
+      "lifespan": 4,
+      "droolingFrequency": 2,
+      "coatStyle": "Straight",
+      "coatTexture": "Smooth",
+      "coatLength": 3,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 5,
+      "playfulness": 5,
+      "protectiveInstincts": 4,
+      "adaptability": 5,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 3,
+      "groomingFrequency": 3,
+      "exerciseNeeds": 5,
+      "mentalStimulationNeeds": 5,
+      "trainingDifficulty": 1
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/labradoodle/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/labradoodle/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/labradoodle/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/labradoodle/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/labradoodle/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/labradoodle/large/studio.png"
+      }
+    },
+    "id": "labradoodle"
+  },
+  {
+    "general": {
+      "name": "Goldendoodle",
+      "group": "Sporting",
+      "personalityTraits": ["Intelligent", "Friendly", "Faithful"],
+      "shortDescription": "The Goldendoodle is a cheerful, affectionate hybrid of the Golden Retriever and Poodle.",
+      "longDescription": "The Goldendoodle combines the Golden Retriever's loyalty and the Poodle's intelligence into a lovable, medium-to-large-sized companion. Known for their wavy or curly, often hypoallergenic coats, Goldendoodles come in various colors and sizes depending on their Poodle parent.\n\nThese dogs are highly sociable, playful, and intelligent, making them excellent for families and individuals alike. Goldendoodles are eager to learn and excel in obedience training, therapy work, and outdoor activities.\n\nTheir friendly nature makes them ideal companions for children and other pets. Regular grooming and ample exercise ensure these joyful dogs remain healthy and happy.",
+      "popularity": 5,
+      "height": 20,
+      "weight": 60,
+      "lifespan": 13
+    },
+    "physical": {
+      "size": 3,
+      "lifespan": 3,
+      "droolingFrequency": 2,
+      "coatStyle": "Wavy",
+      "coatTexture": "Silky",
+      "coatLength": 4,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 5,
+      "playfulness": 5,
+      "protectiveInstincts": 4,
+      "adaptability": 5,
+      "barkingFrequency": 3
+    },
+    "care": {
+      "sheddingAmount": 3,
+      "groomingFrequency": 3,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 5,
+      "trainingDifficulty": 1
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldendoodle/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldendoodle/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldendoodle/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldendoodle/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldendoodle/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldendoodle/large/studio.png"
+      }
+    },
+    "id": "goldendoodle"
+  },
+  {
+    "general": {
+      "name": "Cockapoo",
+      "group": "Sporting",
+      "personalityTraits": ["Intelligent", "Happy", "Loving"],
+      "shortDescription": "The Cockapoo is an affectionate and cheerful cross between a Cocker Spaniel and Poodle.",
+      "longDescription": "The Cockapoo, one of the first designer dog breeds, is a delightful mix of the Cocker Spaniel and Poodle. This small-to-medium-sized dog is adored for its soft, curly coat, which is often hypoallergenic and comes in a variety of colors.\n\nCockapoos are highly sociable and thrive on human interaction, making them wonderful companions for families, singles, and seniors. They are intelligent, easy to train, and enjoy playful activities.\n\nTheir affectionate and gentle demeanor makes them great with children and other pets. Regular grooming and moderate exercise help maintain their health and cheerful spirit.",
+      "popularity": 4,
+      "height": 14,
+      "weight": 19,
+      "lifespan": 14
+    },
+    "physical": {
+      "size": 2,
+      "lifespan": 4,
+      "droolingFrequency": 2,
+      "coatStyle": "Wavy",
+      "coatTexture": "Silky",
+      "coatLength": 5,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 5,
+      "playfulness": 4,
+      "protectiveInstincts": 3,
+      "adaptability": 4,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 2,
+      "groomingFrequency": 4,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockapoo/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockapoo/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockapoo/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockapoo/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockapoo/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockapoo/large/studio.png"
+      }
+    },
+    "id": "cockapoo"
+  },
+  {
+    "general": {
+      "name": "Maltipoo",
+      "group": "Companion",
+      "personalityTraits": ["Happy", "Companionable", "Loving"],
+      "shortDescription": "The Maltipoo is a cuddly, energetic mix of Maltese and Poodle, ideal for families and singles alike.",
+      "longDescription": "The Maltipoo, a hybrid of the Maltese and Poodle, is a charming and affectionate companion known for its fluffy, often hypoallergenic coat and friendly nature. Weighing between 5-20 pounds, Maltipoos are small yet sturdy dogs with a bright and cheerful demeanor.\n\nThey are highly adaptable, making them perfect for apartment living or larger homes. Maltipoos thrive on human interaction, forming deep bonds with their families.\n\nTheir intelligence and eagerness to please make them easy to train, while their playful nature ensures they bring joy to any household. Regular grooming keeps their coat soft and manageable.",
+      "popularity": 4,
+      "height": 11,
+      "weight": 10,
+      "lifespan": 15
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Straight",
+      "coatTexture": "Silky",
+      "coatLength": 5,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 4,
+      "dogSociability": 3,
+      "friendlinessToStrangers": 4,
+      "playfulness": 4,
+      "protectiveInstincts": 4,
+      "adaptability": 4,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 1,
+      "groomingFrequency": 4,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/maltipoo/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/maltipoo/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/maltipoo/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/maltipoo/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/maltipoo/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/maltipoo/large/studio.png"
+      }
+    },
+    "id": "maltipoo"
+  },
+  {
+    "general": {
+      "name": "Pomsky",
+      "group": "Companion",
+      "personalityTraits": ["Curious", "Lively", "Brave"],
+      "shortDescription": "The Pomsky is a playful and fluffy mix of Pomeranian and Siberian Husky, adored for its striking appearance.",
+      "longDescription": "The Pomsky is a designer breed that combines the charm of the Pomeranian with the majestic beauty of the Siberian Husky. This medium-sized dog typically weighs 20-30 pounds, though sizes can vary depending on the parents.\n\nPomskies are known for their plush, double coats that come in a variety of colors, often resembling the striking markings of a Husky. Their expressive eyes, which can be brown, blue, or one of each, add to their enchanting appearance.\n\nHighly intelligent and energetic, Pomskies need regular exercise and mental stimulation. They are affectionate and form strong bonds with their families, making them wonderful companions for those who can keep up with their playful nature.",
+      "popularity": 5,
+      "height": 14,
+      "weight": 28,
+      "lifespan": 14
+    },
+    "physical": {
+      "size": 2,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Straight",
+      "coatTexture": "Rough",
+      "coatLength": 4,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 4,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 4,
+      "playfulness": 4,
+      "protectiveInstincts": 3,
+      "adaptability": 4,
+      "barkingFrequency": 5
+    },
+    "care": {
+      "sheddingAmount": 3,
+      "groomingFrequency": 3,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 3
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pomsky/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pomsky/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pomsky/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pomsky/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pomsky/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pomsky/large/studio.png"
+      }
+    },
+    "id": "pomsky"
+  },
+  {
+    "general": {
+      "name": "Yorkipoo",
+      "group": "Companion",
+      "personalityTraits": ["Lively", "Loving", "Playful"],
+      "shortDescription": "The Yorkipoo is a lively and affectionate mix of Yorkshire Terrier and Poodle, perfect for small dog enthusiasts.",
+      "longDescription": "The Yorkipoo is a delightful hybrid of the Yorkshire Terrier and Poodle, known for its cheerful disposition and compact size. Weighing between 4-15 pounds, this small dog boasts a soft, often curly coat that is low-shedding and hypoallergenic.\n\nYorkipoos are highly intelligent and eager to please, making them easy to train and well-suited for various living environments, including apartments. They are affectionate and thrive on human interaction, forming strong bonds with their owners.\n\nWith their playful and curious nature, Yorkipoos enjoy moderate exercise and engaging activities. Regular grooming helps keep their coats healthy and tangle-free, ensuring they look as charming as their personalities.",
+      "popularity": 5,
+      "height": 11,
+      "weight": 10,
+      "lifespan": 14
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Straight",
+      "coatTexture": "Silky",
+      "coatLength": 5,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 3,
+      "friendlinessToStrangers": 5,
+      "playfulness": 5,
+      "protectiveInstincts": 4,
+      "adaptability": 5,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 1,
+      "groomingFrequency": 5,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 5,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/yorkipoo/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/yorkipoo/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/yorkipoo/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/yorkipoo/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/yorkipoo/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/yorkipoo/large/studio.png"
+      }
+    },
+    "id": "yorkipoo"
+  },
+  {
+    "general": {
+      "name": "Schnoodle",
+      "group": "Terrier",
+      "personalityTraits": ["Friendly", "Intelligent", "Obedient"],
+      "shortDescription": "The Schnoodle is a versatile, intelligent mix of Schnauzer and Poodle, loved for its adaptable and friendly nature.",
+      "longDescription": "The Schnoodle is a popular designer breed that combines the spirited nature of the Schnauzer with the intelligence of the Poodle. Schnoodles come in various sizes, from toy to standard, depending on the size of the Poodle parent, and typically weigh between 10-70 pounds.\n\nKnown for their curly or wavy coats, Schnoodles are often hypoallergenic and require regular grooming to keep them looking their best. Their affectionate and sociable temperament makes them excellent companions for families, singles, and seniors alike.\n\nSchnoodles are highly trainable and excel in obedience and agility activities. They enjoy both physical and mental challenges, making them ideal for active households. Their loyal and loving nature ensures they quickly become cherished members of any family.",
+      "popularity": 4,
+      "height": 13,
+      "weight": 14,
+      "lifespan": 15
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 2,
+      "coatStyle": "Wire",
+      "coatTexture": "Rough",
+      "coatLength": 4,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 3,
+      "friendlinessToStrangers": 4,
+      "playfulness": 5,
+      "protectiveInstincts": 4,
+      "adaptability": 5,
+      "barkingFrequency": 5
+    },
+    "care": {
+      "sheddingAmount": 2,
+      "groomingFrequency": 4,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 5,
+      "trainingDifficulty": 1
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/schnoodle/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/schnoodle/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/schnoodle/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/schnoodle/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/schnoodle/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/schnoodle/large/studio.png"
+      }
+    },
+    "id": "schnoodle"
+  },
+  {
+    "general": {
+      "name": "Cavapoo",
+      "group": "Companion",
+      "personalityTraits": ["Loving", "Dignified", "Companionable"],
+      "shortDescription": "The Cavapoo is a loving and playful mix of Cavalier King Charles Spaniel and Poodle, adored for its gentle nature.",
+      "longDescription": "The Cavapoo is a hybrid breed that combines the affectionate Cavalier King Charles Spaniel with the intelligent Poodle. These small-to-medium-sized dogs typically weigh 10-20 pounds and have soft, curly or wavy coats in various colors.\n\nCavapoos are known for their gentle and friendly demeanor, making them perfect companions for families, singles, and the elderly. They are highly sociable and thrive on human interaction, forming deep bonds with their owners.\n\nIntelligent and eager to please, Cavapoos are easy to train and enjoy activities like fetch and walks. Regular grooming keeps their coats in great condition, while their adaptable nature ensures they fit seamlessly into any lifestyle.",
+      "popularity": 4,
+      "height": 13,
+      "weight": 14,
+      "lifespan": 15
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 2,
+      "coatStyle": "Wavy",
+      "coatTexture": "Silky",
+      "coatLength": 4,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 5,
+      "playfulness": 4,
+      "protectiveInstincts": 3,
+      "adaptability": 4,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 2,
+      "groomingFrequency": 3,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavapoo/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavapoo/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavapoo/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavapoo/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavapoo/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavapoo/large/studio.png"
+      }
+    },
+    "id": "cavapoo"
+  },
+  {
+    "general": {
+      "name": "Morkie",
+      "group": "Companion",
+      "personalityTraits": ["Happy", "Companionable", "Loving"],
+      "shortDescription": "The Morkie is a spirited and affectionate mix of Maltese and Yorkshire Terrier, ideal for small dog lovers.",
+      "longDescription": "The Morkie is a charming hybrid breed that combines the Maltese's elegance with the Yorkshire Terrier's bold personality. These tiny dogs typically weigh 4-12 pounds, making them perfect for those who prefer compact companions.\n\nMorkies are known for their soft, silky coats, which come in a variety of colors and require regular grooming to maintain their beauty. Despite their small size, Morkies are full of energy and enjoy playtime and short walks.\n\nAffectionate and loyal, Morkies form strong bonds with their families and thrive in loving environments. Their lively nature and adaptability make them well-suited for apartments or smaller homes.",
+      "popularity": 5,
+      "height": 8,
+      "weight": 7,
+      "lifespan": 14
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Straight",
+      "coatTexture": "Silky",
+      "coatLength": 5,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 4,
+      "dogSociability": 3,
+      "friendlinessToStrangers": 4,
+      "playfulness": 4,
+      "protectiveInstincts": 5,
+      "adaptability": 5,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 1,
+      "groomingFrequency": 5,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 3
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/morkie/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/morkie/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/morkie/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/morkie/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/morkie/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/morkie/large/studio.png"
+      }
+    },
+    "id": "morkie"
+  },
+  {
+    "general": {
+      "name": "Aussiedoodle",
+      "group": "Herding",
+      "personalityTraits": ["Intelligent", "Hardworking", "Lively"],
+      "shortDescription": "The Aussiedoodle is a smart and energetic mix of Australian Shepherd and Poodle, perfect for active families.",
+      "longDescription": "The Aussiedoodle, a hybrid of the Australian Shepherd and Poodle, is an intelligent and athletic companion. Ranging in size from 25-70 pounds, these medium-to-large dogs are known for their wavy or curly coats, which often come in striking colors and patterns.\n\nAussiedoodles are highly trainable and excel in activities such as obedience, agility, and herding. They are energetic and require plenty of exercise to stay happy and healthy, making them ideal for active families or individuals.\n\nWith their friendly and affectionate temperament, Aussiedoodles form strong bonds with their families. Their love of learning and playful nature ensure they bring joy and excitement to any household.",
+      "popularity": 4,
+      "height": 18,
+      "weight": 55,
+      "lifespan": 15
+    },
+    "physical": {
+      "size": 3,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Wavy",
+      "coatTexture": "Rough",
+      "coatLength": 4,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 4,
+      "childFriendly": 5,
+      "dogSociability": 3,
+      "friendlinessToStrangers": 4,
+      "playfulness": 5,
+      "protectiveInstincts": 4,
+      "adaptability": 4,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 2,
+      "groomingFrequency": 3,
+      "exerciseNeeds": 5,
+      "mentalStimulationNeeds": 5,
+      "trainingDifficulty": 1
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/aussiedoodle/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/aussiedoodle/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/aussiedoodle/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/aussiedoodle/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/aussiedoodle/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/aussiedoodle/large/studio.png"
+      }
+    },
+    "id": "aussiedoodle"
+  },
+  {
+    "general": {
+      "name": "Chorkie",
+      "group": "Companion",
+      "personalityTraits": ["Companionable", "Dignified", "Lively"],
+      "shortDescription": "The Chorkie is a sassy and lovable mix of Chihuahua and Yorkshire Terrier, perfect for small dog lovers.",
+      "longDescription": "The Chorkie is a hybrid breed that combines the bold personality of the Chihuahua with the playful charm of the Yorkshire Terrier. These tiny dogs typically weigh 5-10 pounds and have a small, delicate frame with a coat that ranges from silky to slightly wiry.\n\nChorkies are spirited and affectionate, often forming strong bonds with their owners. Their loyal and protective nature makes them excellent watchdogs, though they can be vocal at times. They thrive in loving environments and are well-suited for apartment living.\n\nDespite their small size, Chorkies have a big-dog attitude and enjoy short walks and interactive play. Regular grooming helps maintain their coat and keeps them looking their best.",
+      "popularity": 5,
+      "height": 8,
+      "weight": 6,
+      "lifespan": 14
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Straight",
+      "coatTexture": "Smooth",
+      "coatLength": 4,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 3,
+      "dogSociability": 3,
+      "friendlinessToStrangers": 4,
+      "playfulness": 4,
+      "protectiveInstincts": 5,
+      "adaptability": 5,
+      "barkingFrequency": 5
+    },
+    "care": {
+      "sheddingAmount": 2,
+      "groomingFrequency": 3,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 3
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chorkie/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chorkie/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chorkie/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chorkie/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chorkie/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/chorkie/large/studio.png"
+      }
+    },
+    "id": "chorkie"
+  },
+  {
+    "general": {
+      "name": "Pitsky",
+      "group": "Terrier",
+      "personalityTraits": ["Friendly", "Confident", "Intelligent"],
+      "shortDescription": "The Pitsky is a loyal and energetic mix of Pit Bull and Siberian Husky, ideal for active families.",
+      "longDescription": "The Pitsky is a hybrid breed combining the strength and devotion of the Pit Bull with the energy and beauty of the Siberian Husky. These medium-to-large dogs typically weigh 30-80 pounds and have a muscular build, often with the striking eyes and coat markings of a Husky.\n\nPitskies are highly energetic and require regular exercise to stay happy and healthy. They are affectionate and loyal, forming deep bonds with their families. Their playful and outgoing nature makes them excellent companions for active households.\n\nWith proper training and socialization, Pitskies can be friendly and well-behaved around other pets and people. Their intelligence and eagerness to please make them both trainable and entertaining companions.",
+      "popularity": 4,
+      "height": 19,
+      "weight": 55,
+      "lifespan": 14
+    },
+    "physical": {
+      "size": 3,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Straight",
+      "coatTexture": "Smooth",
+      "coatLength": 2,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 4,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 5,
+      "playfulness": 4,
+      "protectiveInstincts": 3,
+      "adaptability": 4,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 3,
+      "groomingFrequency": 2,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 3
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pitsky/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pitsky/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pitsky/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pitsky/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pitsky/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/pitsky/large/studio.png"
+      }
+    },
+    "id": "pitsky"
+  },
+  {
+    "general": {
+      "name": "Goldador",
+      "group": "Sporting",
+      "personalityTraits": ["Intelligent", "Friendly", "Faithful"],
+      "shortDescription": "The Goldador is a gentle and hardworking mix of Golden Retriever and Labrador, known for its versatility.",
+      "longDescription": "The Goldador is a designer breed that blends the best qualities of the Golden Retriever and Labrador Retriever. These medium-to-large dogs typically weigh 55-80 pounds and have a sturdy, athletic build with a short, dense coat in shades of yellow, gold, or black.\n\nGoldadors are intelligent and eager to please, making them highly trainable and versatile. They excel in various roles, from service and therapy work to search-and-rescue tasks. Their friendly and gentle demeanor ensures they are wonderful family pets.\n\nThese dogs are energetic and thrive in active households. They enjoy outdoor activities like hiking, swimming, and fetch. With their affectionate nature and adaptability, Goldadors are a perfect blend of loyalty and fun.",
+      "popularity": 5,
+      "height": 25,
+      "weight": 68,
+      "lifespan": 11
+    },
+    "physical": {
+      "size": 3,
+      "lifespan": 3,
+      "droolingFrequency": 2,
+      "coatStyle": "Wavy",
+      "coatTexture": "Silky",
+      "coatLength": 2,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 5,
+      "friendlinessToStrangers": 5,
+      "playfulness": 5,
+      "protectiveInstincts": 3,
+      "adaptability": 5,
+      "barkingFrequency": 2
+    },
+    "care": {
+      "sheddingAmount": 4,
+      "groomingFrequency": 2,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 1
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldador/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldador/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldador/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldador/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldador/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/goldador/large/studio.png"
+      }
+    },
+    "id": "goldador"
+  },
+  {
+    "general": {
+      "name": "Bernedoodle",
+      "group": "Working",
+      "personalityTraits": ["Friendly", "Relaxed", "Brave"],
+      "shortDescription": "The Bernedoodle is a sweet and intelligent mix of Bernese Mountain Dog and Poodle, loved for its affectionate nature.",
+      "longDescription": "The Bernedoodle is a hybrid breed combining the gentle Bernese Mountain Dog with the clever Poodle. These dogs vary in size depending on the Poodle parent, ranging from 10 to 90 pounds, and often have a soft, wavy, or curly coat that is low-shedding.\n\nBernedoodles are known for their affectionate and easygoing personalities, making them excellent companions for families. They thrive on human interaction and enjoy being part of everyday activities. Their playful nature makes them especially well-suited for children.\n\nThese intelligent dogs are trainable and versatile, excelling in obedience and agility. Regular grooming and daily exercise keep them healthy and happy. Their loyal and loving temperament ensures they quickly become cherished members of any household.",
+      "popularity": 4,
+      "height": 20,
+      "weight": 73,
+      "lifespan": 12
+    },
+    "physical": {
+      "size": 3,
+      "lifespan": 3,
+      "droolingFrequency": 2,
+      "coatStyle": "Straight",
+      "coatTexture": "Rough",
+      "coatLength": 4,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 5,
+      "playfulness": 5,
+      "protectiveInstincts": 4,
+      "adaptability": 4,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 3,
+      "groomingFrequency": 4,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bernedoodle/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bernedoodle/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bernedoodle/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bernedoodle/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bernedoodle/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bernedoodle/large/studio.png"
+      }
+    },
+    "id": "bernedoodle"
+  },
+  {
+    "general": {
+      "name": "Shorkie",
+      "group": "Companion",
+      "personalityTraits": ["Happy", "Loving", "Friendly"],
+      "shortDescription": "The Shorkie is a feisty and affectionate mix of Shih Tzu and Yorkshire Terrier, perfect for small-dog enthusiasts.",
+      "longDescription": "The Shorkie, a hybrid of the Shih Tzu and Yorkshire Terrier, is a tiny but spirited companion with a big personality. These small dogs typically weigh 5-12 pounds and have a soft, silky coat that often combines the colors of both parent breeds.\n\nShorkies are devoted and affectionate, forming strong bonds with their families. Their lively nature and playful energy make them delightful companions for singles, seniors, or families with older children. They thrive in apartment settings but enjoy short walks and interactive play.\n\nThese little dogs are intelligent but can be stubborn, so consistent training is key. Regular grooming helps keep their coat healthy and tangle-free, ensuring they remain as charming as their personalities.",
+      "popularity": 5,
+      "height": 9,
+      "weight": 10,
+      "lifespan": 14
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Straight",
+      "coatTexture": "Silky",
+      "coatLength": 5,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 4,
+      "playfulness": 4,
+      "protectiveInstincts": 4,
+      "adaptability": 5,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 1,
+      "groomingFrequency": 5,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shorkie/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shorkie/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shorkie/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shorkie/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shorkie/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shorkie/large/studio.png"
+      }
+    },
+    "id": "shorkie"
+  },
+  {
+    "general": {
+      "name": "Boxador",
+      "group": "Working",
+      "personalityTraits": ["Lively", "Intelligent", "Playful"],
+      "shortDescription": "The Boxador is a friendly and energetic mix of Boxer and Labrador Retriever, ideal for active families.",
+      "longDescription": "The Boxador, a cross between the Boxer and Labrador Retriever, is a medium-to-large-sized dog known for its affectionate and playful nature. Weighing 50-80 pounds, Boxadors are strong and athletic, with a short coat that is easy to maintain.\n\nThese dogs are highly sociable and bond deeply with their families, making them excellent companions for active households. Their energetic nature means they thrive on regular exercise, such as running, hiking, or playing fetch. Boxadors are also protective and make good watchdogs.\n\nWith their intelligence and eagerness to please, Boxadors are trainable and enjoy learning new tricks. Their friendly demeanor ensures they get along well with children and other pets, bringing joy and activity to any home.",
+      "popularity": 5,
+      "height": 25,
+      "weight": 68,
+      "lifespan": 11
+    },
+    "physical": {
+      "size": 3,
+      "lifespan": 3,
+      "droolingFrequency": 3,
+      "coatStyle": "Straight",
+      "coatTexture": "Smooth",
+      "coatLength": 1,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 5,
+      "playfulness": 5,
+      "protectiveInstincts": 4,
+      "adaptability": 4,
+      "barkingFrequency": 3
+    },
+    "care": {
+      "sheddingAmount": 3,
+      "groomingFrequency": 2,
+      "exerciseNeeds": 5,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boxador/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boxador/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boxador/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boxador/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boxador/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/boxador/large/studio.png"
+      }
+    },
+    "id": "boxador"
+  },
+  {
+    "general": {
+      "name": "Bullmatian",
+      "group": "Companion",
+      "personalityTraits": ["Friendly", "Brave", "Relaxed"],
+      "shortDescription": "The Bullmatian is a spirited and loyal mix of Bulldog and Dalmatian, known for its playful personality.",
+      "longDescription": "The Bullmatian is a hybrid breed combining the sturdy Bulldog with the energetic Dalmatian. These medium-to-large dogs typically weigh 40-70 pounds and have a strong, muscular build with a short coat often marked with the signature Dalmatian spots.\n\nBullmatians are known for their lively and affectionate nature, making them excellent companions for families. They are playful and energetic, thriving in homes where they have space to run and play.\n\nWith proper socialization and training, Bullmatians are friendly and well-mannered around children and other pets. Their short coat is low-maintenance, but regular exercise is essential to keep them happy and healthy.",
+      "popularity": 5,
+      "height": 18,
+      "weight": 53,
+      "lifespan": 11
+    },
+    "physical": {
+      "size": 3,
+      "lifespan": 2,
+      "droolingFrequency": 3,
+      "coatStyle": "Straight",
+      "coatTexture": "Smooth",
+      "coatLength": 1,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 3,
+      "dogSociability": 3,
+      "friendlinessToStrangers": 4,
+      "playfulness": 4,
+      "protectiveInstincts": 4,
+      "adaptability": 4,
+      "barkingFrequency": 3
+    },
+    "care": {
+      "sheddingAmount": 4,
+      "groomingFrequency": 3,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bullmatian/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bullmatian/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bullmatian/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bullmatian/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bullmatian/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bullmatian/large/studio.png"
+      }
+    },
+    "id": "bullmatian"
+  },
+  {
+    "general": {
+      "name": "Doxiepoo",
+      "group": "Hound",
+      "personalityTraits": ["Curious", "Friendly", "Lively"],
+      "shortDescription": "The Doxiepoo is a quirky and affectionate mix of Dachshund and Poodle, loved for its unique personality.",
+      "longDescription": "The Doxiepoo is a hybrid breed that combines the playful Dachshund with the intelligent Poodle. These small dogs typically weigh 10-30 pounds and can have a variety of coat types, from curly to straight, depending on their lineage.\n\nDoxiepoos are known for their affectionate and charming nature, forming strong bonds with their families. They are intelligent and eager to please but can also inherit the Dachshund's stubborn streak, making consistent training important.\n\nTheir playful energy makes them great companions for families or individuals. Doxiepoos adapt well to both apartment and larger home environments, though regular mental and physical stimulation is key to keeping them content.",
+      "popularity": 5,
+      "height": 10,
+      "weight": 17,
+      "lifespan": 15
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 2,
+      "coatStyle": "Straight",
+      "coatTexture": "Smooth",
+      "coatLength": 4,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 4,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 5,
+      "playfulness": 5,
+      "protectiveInstincts": 4,
+      "adaptability": 4,
+      "barkingFrequency": 5
+    },
+    "care": {
+      "sheddingAmount": 2,
+      "groomingFrequency": 3,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/doxiepoo/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/doxiepoo/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/doxiepoo/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/doxiepoo/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/doxiepoo/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/doxiepoo/large/studio.png"
+      }
+    },
+    "id": "doxiepoo"
+  },
+  {
+    "general": {
+      "name": "Corgipoo",
+      "group": "Herding",
+      "personalityTraits": ["Vigilant", "Loving", "Intelligent"],
+      "shortDescription": "The Corgipoo is a lively and intelligent mix of Corgi and Poodle, perfect for families and singles alike.",
+      "longDescription": "The Corgipoo is a delightful hybrid breed that combines the playful Corgi with the intelligent Poodle. These small-to-medium-sized dogs typically weigh 12-40 pounds and often inherit the Corgi's long body and the Poodle's curly or wavy coat.\n\nCorgipoos are highly sociable and thrive on human interaction, making them wonderful family pets. They are smart and trainable, excelling in obedience and agility activities, which also help burn off their abundant energy.\n\nThese dogs adapt well to various living environments but require regular exercise to stay happy. Their coat may need frequent grooming to prevent tangles and maintain its texture. With their affectionate and playful nature, Corgipoos bring joy to any home.",
+      "popularity": 4,
+      "height": 12,
+      "weight": 22,
+      "lifespan": 14
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Straight",
+      "coatTexture": "Rough",
+      "coatLength": 3,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 4,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 5,
+      "playfulness": 5,
+      "protectiveInstincts": 4,
+      "adaptability": 4,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 3,
+      "groomingFrequency": 3,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 5,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/corgipoo/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/corgipoo/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/corgipoo/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/corgipoo/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/corgipoo/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/corgipoo/large/studio.png"
+      }
+    },
+    "id": "corgipoo"
+  },
+  {
+    "general": {
+      "name": "Sheepadoodle",
+      "group": "Herding",
+      "personalityTraits": ["Intelligent", "Loving", "Adaptable"],
+      "shortDescription": "The Sheepadoodle is a friendly and intelligent mix of Old English Sheepdog and Poodle, adored for its affectionate temperament.",
+      "longDescription": "The Sheepadoodle is a hybrid breed that combines the gentle Old English Sheepdog with the clever Poodle. These medium-to-large dogs typically weigh 50-80 pounds and have a soft, curly or wavy coat that is often hypoallergenic.\n\nSheepadoodles are known for their affectionate and family-friendly nature, making them excellent companions for children and adults alike. They are intelligent and eager to please, excelling in training and learning new tricks.\n\nThese dogs are active and enjoy outdoor activities like hiking or playing fetch, making them a great fit for active families. Regular grooming is essential to keep their coat healthy and free of tangles. Their loyal and playful personality ensures they are cherished members of any household.",
+      "popularity": 4,
+      "height": 18,
+      "weight": 68,
+      "lifespan": 13
+    },
+    "physical": {
+      "size": 3,
+      "lifespan": 3,
+      "droolingFrequency": 2,
+      "coatStyle": "Wavy",
+      "coatTexture": "Rough",
+      "coatLength": 5,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 3,
+      "friendlinessToStrangers": 4,
+      "playfulness": 5,
+      "protectiveInstincts": 5,
+      "adaptability": 4,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 2,
+      "groomingFrequency": 4,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 5,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/sheepadoodle/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/sheepadoodle/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/sheepadoodle/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/sheepadoodle/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/sheepadoodle/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/sheepadoodle/large/studio.png"
+      }
+    },
+    "id": "sheepadoodle"
+  },
+  {
+    "general": {
+      "name": "Cheagle",
+      "group": "Companion",
+      "personalityTraits": ["Companionable", "Dignified", "Lively"],
+      "shortDescription": "The Cheagle is a spirited and affectionate mix of Chihuahua and Beagle, known for its energetic charm.",
+      "longDescription": "The Cheagle is a hybrid breed that combines the bold Chihuahua with the friendly Beagle. These small-to-medium-sized dogs typically weigh 10-20 pounds and have a short coat that is easy to maintain, often reflecting the coloring of both parent breeds.\n\nCheagles are energetic and playful, thriving in active households where they receive plenty of attention and exercise. Their Beagle lineage gives them a curious nature, while the Chihuahua side adds a touch of spunk.\n\nThese dogs are affectionate and form strong bonds with their families, making them excellent companions. Early training and socialization help manage their vocal tendencies and ensure they are well-behaved around other pets and people.",
+      "popularity": 5,
+      "height": 11,
+      "weight": 15,
+      "lifespan": 14
+    },
+    "physical": {
+      "size": 2,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Straight",
+      "coatTexture": "Smooth",
+      "coatLength": 2,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 4,
+      "childFriendly": 3,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 3,
+      "playfulness": 4,
+      "protectiveInstincts": 3,
+      "adaptability": 4,
+      "barkingFrequency": 5
+    },
+    "care": {
+      "sheddingAmount": 3,
+      "groomingFrequency": 2,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 3
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cheagle/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cheagle/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cheagle/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cheagle/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cheagle/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cheagle/large/studio.png"
+      }
+    },
+    "id": "cheagle"
+  },
+  {
+    "general": {
+      "name": "Springador",
+      "group": "Sporting",
+      "personalityTraits": ["Friendly", "Happy", "Obedient"],
+      "shortDescription": "The Springador is an energetic and loyal mix of Springer Spaniel and Labrador Retriever, perfect for active families.",
+      "longDescription": "The Springador is a hybrid breed that combines the Springer Spaniel's athleticism with the Labrador Retriever's friendly and outgoing nature. These medium-to-large dogs typically weigh 50-80 pounds and have a sturdy build with a short, dense coat in various colors.\n\nSpringadors are highly energetic and require plenty of exercise, making them ideal companions for active households. They are intelligent and eager to please, excelling in obedience training and outdoor activities such as hiking, swimming, or fetching.\n\nTheir affectionate and loyal temperament makes them great with children and other pets. With regular physical activity and mental stimulation, Springadors thrive as loving and devoted members of the family.",
+      "popularity": 5,
+      "height": 23,
+      "weight": 58,
+      "lifespan": 13
+    },
+    "physical": {
+      "size": 3,
+      "lifespan": 3,
+      "droolingFrequency": 3,
+      "coatStyle": "Wavy",
+      "coatTexture": "Silky",
+      "coatLength": 2,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 4,
+      "dogSociability": 5,
+      "friendlinessToStrangers": 5,
+      "playfulness": 5,
+      "protectiveInstincts": 3,
+      "adaptability": 5,
+      "barkingFrequency": 3
+    },
+    "care": {
+      "sheddingAmount": 4,
+      "groomingFrequency": 2,
+      "exerciseNeeds": 5,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 1
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/springador/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/springador/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/springador/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/springador/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/springador/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/springador/large/studio.png"
+      }
+    },
+    "id": "springador"
+  },
+  {
+    "general": {
+      "name": "Shihpoo",
+      "group": "Companion",
+      "personalityTraits": ["Happy", "Loving", "Friendly"],
+      "shortDescription": "The Shihpoo is a sweet and playful mix of Shih Tzu and Poodle, loved for its affectionate nature.",
+      "longDescription": "The Shihpoo is a designer breed that combines the Shih Tzu's charm with the Poodle's intelligence. These small dogs typically weigh 8-18 pounds and have soft, wavy, or curly coats that are often hypoallergenic and low-shedding.\n\nShihpoos are affectionate and sociable, making them wonderful companions for families, singles, and seniors alike. They are playful and enjoy moderate exercise, such as short walks or interactive play sessions.\n\nTheir friendly demeanor ensures they get along well with children and other pets. Regular grooming is essential to maintain their coat, and early training helps them develop into well-behaved and lovable companions.",
+      "popularity": 4,
+      "height": 12,
+      "weight": 13,
+      "lifespan": 15
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Straight",
+      "coatTexture": "Silky",
+      "coatLength": 5,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 4,
+      "friendlinessToStrangers": 4,
+      "playfulness": 4,
+      "protectiveInstincts": 3,
+      "adaptability": 5,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 1,
+      "groomingFrequency": 4,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 4,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shihpoo/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shihpoo/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shihpoo/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shihpoo/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shihpoo/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/shihpoo/large/studio.png"
+      }
+    },
+    "id": "shihpoo"
+  },
+  {
+    "general": {
+      "name": "Bordoodle",
+      "group": "Herding",
+      "personalityTraits": ["Lively", "Loving", "Intelligent"],
+      "shortDescription": "The Bordoodle is a smart and energetic mix of Border Collie and Poodle, ideal for active and experienced dog owners.",
+      "longDescription": "The Bordoodle is a hybrid breed that combines the Border Collie's intelligence with the Poodle's cleverness, resulting in one of the smartest and most trainable designer dogs. These medium-sized dogs typically weigh 30-60 pounds and have wavy or curly coats that are often low-shedding.\n\nBordoodles are highly energetic and require plenty of mental and physical stimulation. They excel in obedience, agility, and other dog sports, making them perfect for active and experienced owners who can dedicate time to their training and exercise.\n\nAffectionate and friendly, Bordoodles form strong bonds with their families. They thrive in environments where they are given tasks or activities to keep their intelligent minds engaged. Regular grooming helps keep their coat healthy and free of tangles.",
+      "popularity": 4,
+      "height": 18,
+      "weight": 50,
+      "lifespan": 15
+    },
+    "physical": {
+      "size": 3,
+      "lifespan": 4,
+      "droolingFrequency": 1,
+      "coatStyle": "Wavy",
+      "coatTexture": "Rough",
+      "coatLength": 4,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 4,
+      "dogSociability": 3,
+      "friendlinessToStrangers": 5,
+      "playfulness": 5,
+      "protectiveInstincts": 4,
+      "adaptability": 5,
+      "barkingFrequency": 4
+    },
+    "care": {
+      "sheddingAmount": 2,
+      "groomingFrequency": 4,
+      "exerciseNeeds": 5,
+      "mentalStimulationNeeds": 5,
+      "trainingDifficulty": 1
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bordoodle/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bordoodle/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bordoodle/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bordoodle/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bordoodle/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/bordoodle/large/studio.png"
+      }
+    },
+    "id": "bordoodle"
+  },
+  {
+    "general": {
+      "name": "Cockalier",
+      "group": "Sporting",
+      "personalityTraits": ["Intelligent", "Happy", "Loving"],
+      "shortDescription": "The Cockalier is a gentle and loving mix of Cocker Spaniel and Cavalier King Charles Spaniel, adored for its sweet nature.",
+      "longDescription": "The Cockalier is a hybrid breed that blends the affectionate Cavalier King Charles Spaniel with the playful Cocker Spaniel. These small-to-medium-sized dogs typically weigh 15-30 pounds and have soft, silky coats in a variety of colors.\n\nCockaliers are known for their sweet and gentle temperament, making them ideal companions for families, singles, and seniors. They are sociable and friendly, getting along well with children and other pets.\n\nThese dogs enjoy moderate exercise, such as walks or playtime, and adapt well to both apartments and larger homes. Regular grooming keeps their coats looking beautiful, while their loving personalities ensure they quickly become cherished members of any family.",
+      "popularity": 4,
+      "height": 14,
+      "weight": 20,
+      "lifespan": 13
+    },
+    "physical": {
+      "size": 2,
+      "lifespan": 4,
+      "droolingFrequency": 2,
+      "coatStyle": "Wavy",
+      "coatTexture": "Silky",
+      "coatLength": 4,
+      "doubleCoat": true
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 5,
+      "friendlinessToStrangers": 4,
+      "playfulness": 3,
+      "protectiveInstincts": 3,
+      "adaptability": 4,
+      "barkingFrequency": 3
+    },
+    "care": {
+      "sheddingAmount": 3,
+      "groomingFrequency": 3,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 3,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockalier/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockalier/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockalier/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockalier/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockalier/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cockalier/large/studio.png"
+      }
+    },
+    "id": "cockalier"
+  },
+  {
+    "general": {
+      "name": "Cavachon",
+      "group": "Companion",
+      "personalityTraits": ["Loving", "Dignified", "Companionable"],
+      "shortDescription": "The Cavachon is a charming and gentle mix of Cavalier King Charles Spaniel and Bichon Frise, perfect for families and singles.",
+      "longDescription": "The Cavachon is a delightful hybrid breed that combines the Cavalier King Charles Spaniel's sweetness with the Bichon Frise's playful charm. These small dogs typically weigh 15-20 pounds and have soft, wavy coats that are often hypoallergenic and low-shedding.\n\nCavachons are affectionate and sociable, making them wonderful companions for families, singles, and seniors. They are gentle and friendly, getting along well with children and other pets, and thrive on human interaction.\n\nThese dogs are moderately active and enjoy activities like short walks and playtime. Regular grooming helps maintain their beautiful coat, while their adaptable and loving nature makes them a perfect fit for a variety of lifestyles.",
+      "popularity": 4,
+      "height": 12,
+      "weight": 15,
+      "lifespan": 15
+    },
+    "physical": {
+      "size": 1,
+      "lifespan": 4,
+      "droolingFrequency": 2,
+      "coatStyle": "Wavy",
+      "coatTexture": "Silky",
+      "coatLength": 4,
+      "doubleCoat": false
+    },
+    "behavior": {
+      "familyAffection": 5,
+      "childFriendly": 5,
+      "dogSociability": 5,
+      "friendlinessToStrangers": 5,
+      "playfulness": 4,
+      "protectiveInstincts": 3,
+      "adaptability": 4,
+      "barkingFrequency": 3
+    },
+    "care": {
+      "sheddingAmount": 2,
+      "groomingFrequency": 4,
+      "exerciseNeeds": 4,
+      "mentalStimulationNeeds": 3,
+      "trainingDifficulty": 2
+    },
+    "images": {
+      "small": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavachon/small/indoors.jpg",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavachon/small/outdoors.jpg",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavachon/small/studio.jpg"
+      },
+      "large": {
+        "indoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavachon/large/indoors.png",
+        "outdoors": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavachon/large/outdoors.png",
+        "studio": "https://raw.githubusercontent.com/chase-manning/open-dog-registry/main/images/cavachon/large/studio.png"
+      }
+    },
+    "id": "cavachon"
   }
 ]
