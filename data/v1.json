@@ -9,7 +9,8 @@
       "popularity": 5,
       "height": 7,
       "weight": 5,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -61,7 +62,8 @@
       "popularity": 5,
       "height": 20,
       "weight": 50,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -113,7 +115,8 @@
       "popularity": 5,
       "height": 8,
       "weight": 7,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -165,7 +168,8 @@
       "popularity": 5,
       "height": 12,
       "weight": 25,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -217,7 +221,8 @@
       "popularity": 5,
       "height": 25,
       "weight": 70,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -269,7 +274,8 @@
       "popularity": 5,
       "height": 25,
       "weight": 70,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -321,7 +327,8 @@
       "popularity": 5,
       "height": 7,
       "weight": 20,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -373,7 +380,8 @@
       "popularity": 5,
       "height": 25,
       "weight": 65,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -425,7 +433,8 @@
       "popularity": 5,
       "height": 15,
       "weight": 25,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 2,
@@ -477,7 +486,8 @@
       "popularity": 5,
       "height": 15,
       "weight": 45,
-      "lifespan": 9
+      "lifespan": 9,
+      "rare": false
     },
     "physical": {
       "size": 2,
@@ -529,7 +539,8 @@
       "popularity": 4,
       "height": 13,
       "weight": 13,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -581,7 +592,8 @@
       "popularity": 4,
       "height": 20,
       "weight": 55,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -633,7 +645,8 @@
       "popularity": 4,
       "height": 30,
       "weight": 145,
-      "lifespan": 9
+      "lifespan": 9,
+      "rare": true
     },
     "physical": {
       "size": 5,
@@ -685,7 +698,8 @@
       "popularity": 4,
       "height": 25,
       "weight": 60,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -737,7 +751,8 @@
       "popularity": 4,
       "height": 15,
       "weight": 20,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 2,
@@ -789,7 +804,8 @@
       "popularity": 4,
       "height": 15,
       "weight": 55,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 2,
@@ -841,7 +857,8 @@
       "popularity": 4,
       "height": 10,
       "weight": 13,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -893,7 +910,8 @@
       "popularity": 4,
       "height": 25,
       "weight": 105,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": false
     },
     "physical": {
       "size": 4,
@@ -945,7 +963,8 @@
       "popularity": 4,
       "height": 15,
       "weight": 30,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 2,
@@ -997,7 +1016,8 @@
       "popularity": 4,
       "height": 25,
       "weight": 60,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -1049,7 +1069,8 @@
       "popularity": 4,
       "height": 20,
       "weight": 50,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -1101,7 +1122,8 @@
       "popularity": 4,
       "height": 10,
       "weight": 30,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -1153,7 +1175,8 @@
       "popularity": 4,
       "height": 25,
       "weight": 125,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -1205,7 +1228,8 @@
       "popularity": 4,
       "height": 25,
       "weight": 80,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": false
     },
     "physical": {
       "size": 4,
@@ -1257,7 +1281,8 @@
       "popularity": 4,
       "height": 10,
       "weight": 15,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -1309,7 +1334,8 @@
       "popularity": 4,
       "height": 8,
       "weight": 7,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -1361,7 +1387,8 @@
       "popularity": 4,
       "height": 13,
       "weight": 15,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -1413,7 +1440,8 @@
       "popularity": 4,
       "height": 10,
       "weight": 18,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -1465,7 +1493,8 @@
       "popularity": 4,
       "height": 15,
       "weight": 25,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": false
     },
     "physical": {
       "size": 2,
@@ -1517,7 +1546,8 @@
       "popularity": 4,
       "height": 12,
       "weight": 15,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -1569,7 +1599,8 @@
       "popularity": 4,
       "height": 10,
       "weight": 20,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -1621,7 +1652,8 @@
       "popularity": 4,
       "height": 25,
       "weight": 90,
-      "lifespan": 9
+      "lifespan": 9,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -1673,7 +1705,8 @@
       "popularity": 4,
       "height": 7,
       "weight": 5,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -1725,7 +1758,8 @@
       "popularity": 4,
       "height": 25,
       "weight": 75,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -1777,7 +1811,8 @@
       "popularity": 4,
       "height": 20,
       "weight": 45,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -1829,7 +1864,8 @@
       "popularity": 4,
       "height": 20,
       "weight": 60,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -1881,7 +1917,8 @@
       "popularity": 4,
       "height": 13,
       "weight": 15,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -1933,7 +1970,8 @@
       "popularity": 4,
       "height": 20,
       "weight": 45,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -1985,7 +2023,8 @@
       "popularity": 4,
       "height": 25,
       "weight": 65,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -2037,7 +2076,8 @@
       "popularity": 3,
       "height": 20,
       "weight": 40,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 2,
@@ -2089,7 +2129,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 100,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -2141,7 +2182,8 @@
       "popularity": 3,
       "height": 10,
       "weight": 12,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -2193,7 +2235,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 105,
-      "lifespan": 7
+      "lifespan": 7,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -2245,7 +2288,8 @@
       "popularity": 3,
       "height": 11,
       "weight": 9,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -2297,7 +2341,8 @@
       "popularity": 3,
       "height": 20,
       "weight": 45,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -2349,7 +2394,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 115,
-      "lifespan": 8
+      "lifespan": 8,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -2401,7 +2447,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 70,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -2453,7 +2500,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 60,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -2505,7 +2553,8 @@
       "popularity": 3,
       "height": 15,
       "weight": 30,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 2,
@@ -2557,7 +2606,8 @@
       "popularity": 3,
       "height": 30,
       "weight": 170,
-      "lifespan": 8
+      "lifespan": 8,
+      "rare": true
     },
     "physical": {
       "size": 5,
@@ -2609,7 +2659,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 60,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -2661,7 +2712,8 @@
       "popularity": 3,
       "height": 15,
       "weight": 20,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -2713,7 +2765,8 @@
       "popularity": 3,
       "height": 9,
       "weight": 5,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -2765,7 +2818,8 @@
       "popularity": 3,
       "height": 15,
       "weight": 20,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -2817,7 +2871,8 @@
       "popularity": 3,
       "height": 20,
       "weight": 35,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 2,
@@ -2869,7 +2924,8 @@
       "popularity": 3,
       "height": 12,
       "weight": 30,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -2921,7 +2977,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 60,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -2973,7 +3030,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 95,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -3025,7 +3083,8 @@
       "popularity": 3,
       "height": 30,
       "weight": 115,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 5,
@@ -3077,7 +3136,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 60,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -3129,7 +3189,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 60,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -3181,7 +3242,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 65,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -3233,7 +3295,8 @@
       "popularity": 3,
       "height": 15,
       "weight": 10,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -3285,7 +3348,8 @@
       "popularity": 3,
       "height": 14,
       "weight": 14,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -3337,7 +3401,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 65,
-      "lifespan": 9
+      "lifespan": 9,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -3389,7 +3454,8 @@
       "popularity": 3,
       "height": 12,
       "weight": 10,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -3441,7 +3507,8 @@
       "popularity": 3,
       "height": 20,
       "weight": 45,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -3493,7 +3560,8 @@
       "popularity": 3,
       "height": 30,
       "weight": 65,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -3545,7 +3613,8 @@
       "popularity": 3,
       "height": 20,
       "weight": 80,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -3597,7 +3666,8 @@
       "popularity": 3,
       "height": 30,
       "weight": 145,
-      "lifespan": 9
+      "lifespan": 9,
+      "rare": true
     },
     "physical": {
       "size": 5,
@@ -3649,7 +3719,8 @@
       "popularity": 3,
       "height": 10,
       "weight": 8,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -3701,7 +3772,8 @@
       "popularity": 3,
       "height": 20,
       "weight": 35,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -3753,7 +3825,8 @@
       "popularity": 3,
       "height": 23,
       "weight": 80,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -3805,7 +3878,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 80,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -3857,7 +3931,8 @@
       "popularity": 3,
       "height": 18,
       "weight": 60,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -3909,7 +3984,8 @@
       "popularity": 3,
       "height": 10,
       "weight": 20,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -3961,7 +4037,8 @@
       "popularity": 3,
       "height": 15,
       "weight": 17,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -4013,7 +4090,8 @@
       "popularity": 3,
       "height": 23,
       "weight": 55,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -4065,7 +4143,8 @@
       "popularity": 3,
       "height": 8,
       "weight": 12,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -4117,7 +4196,8 @@
       "popularity": 3,
       "height": 30,
       "weight": 95,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -4169,7 +4249,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 80,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -4221,7 +4302,8 @@
       "popularity": 3,
       "height": 10,
       "weight": 10,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -4273,7 +4355,8 @@
       "popularity": 3,
       "height": 20,
       "weight": 55,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -4325,7 +4408,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 55,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -4377,7 +4461,8 @@
       "popularity": 3,
       "height": 15,
       "weight": 55,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -4429,7 +4514,8 @@
       "popularity": 3,
       "height": 20,
       "weight": 45,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -4481,7 +4567,8 @@
       "popularity": 3,
       "height": 18,
       "weight": 35,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -4533,7 +4620,8 @@
       "popularity": 3,
       "height": 10,
       "weight": 15,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -4585,7 +4673,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 70,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -4637,7 +4726,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 60,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -4689,7 +4779,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 65,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -4741,7 +4832,8 @@
       "popularity": 3,
       "height": 20,
       "weight": 60,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -4793,7 +4885,8 @@
       "popularity": 3,
       "height": 30,
       "weight": 115,
-      "lifespan": 7
+      "lifespan": 7,
+      "rare": true
     },
     "physical": {
       "size": 5,
@@ -4845,7 +4938,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 65,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -4897,7 +4991,8 @@
       "popularity": 3,
       "height": 25,
       "weight": 50,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -4949,7 +5044,8 @@
       "popularity": 3,
       "height": 20,
       "weight": 60,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -5001,7 +5097,8 @@
       "popularity": 3,
       "height": 10,
       "weight": 14,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -5053,7 +5150,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 25,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -5105,7 +5203,8 @@
       "popularity": 2,
       "height": 23,
       "weight": 55,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -5157,7 +5256,8 @@
       "popularity": 2,
       "height": 20,
       "weight": 40,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -5209,7 +5309,8 @@
       "popularity": 2,
       "height": 10,
       "weight": 12,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -5261,7 +5362,8 @@
       "popularity": 2,
       "height": 20,
       "weight": 35,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -5313,7 +5415,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 50,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -5365,7 +5468,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 95,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -5417,7 +5521,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 55,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -5469,7 +5574,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 175,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 5,
@@ -5521,7 +5627,8 @@
       "popularity": 2,
       "height": 20,
       "weight": 50,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -5573,7 +5680,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 30,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -5625,7 +5733,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 17,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -5677,7 +5786,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 17,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -5729,7 +5839,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 35,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -5781,7 +5892,8 @@
       "popularity": 2,
       "height": 18,
       "weight": 45,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -5833,7 +5945,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 80,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -5885,7 +5998,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 115,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -5937,7 +6051,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 80,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -5989,7 +6104,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 60,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -6041,7 +6157,8 @@
       "popularity": 2,
       "height": 20,
       "weight": 50,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -6093,7 +6210,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 35,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -6145,7 +6263,8 @@
       "popularity": 2,
       "height": 18,
       "weight": 30,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -6197,7 +6316,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 60,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -6249,7 +6369,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 25,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -6301,7 +6422,8 @@
       "popularity": 2,
       "height": 18,
       "weight": 25,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -6353,7 +6475,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 17,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -6405,7 +6528,8 @@
       "popularity": 2,
       "height": 18,
       "weight": 25,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -6457,7 +6581,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 65,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -6509,7 +6634,8 @@
       "popularity": 2,
       "height": 30,
       "weight": 130,
-      "lifespan": 8
+      "lifespan": 8,
+      "rare": true
     },
     "physical": {
       "size": 5,
@@ -6561,7 +6687,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 20,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -6613,7 +6740,8 @@
       "popularity": 2,
       "height": 14,
       "weight": 15,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -6665,7 +6793,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 60,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -6717,7 +6846,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 30,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -6769,7 +6899,8 @@
       "popularity": 2,
       "height": 20,
       "weight": 45,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -6821,7 +6952,8 @@
       "popularity": 2,
       "height": 20,
       "weight": 50,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -6873,7 +7005,8 @@
       "popularity": 2,
       "height": 10,
       "weight": 10,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -6925,7 +7058,8 @@
       "popularity": 2,
       "height": 10,
       "weight": 10,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -6977,7 +7111,8 @@
       "popularity": 2,
       "height": 18,
       "weight": 40,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -7029,7 +7164,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 20,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -7081,7 +7217,8 @@
       "popularity": 2,
       "height": 30,
       "weight": 130,
-      "lifespan": 7
+      "lifespan": 7,
+      "rare": true
     },
     "physical": {
       "size": 5,
@@ -7133,7 +7270,8 @@
       "popularity": 2,
       "height": 10,
       "weight": 9,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -7185,7 +7323,8 @@
       "popularity": 2,
       "height": 10,
       "weight": 10,
-      "lifespan": 17
+      "lifespan": 17,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -7237,7 +7376,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 90,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -7289,7 +7429,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 45,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -7341,7 +7482,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 90,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -7393,7 +7535,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 75,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -7445,7 +7588,8 @@
       "popularity": 2,
       "height": 12,
       "weight": 25,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -7497,7 +7641,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 90,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -7549,7 +7694,8 @@
       "popularity": 2,
       "height": 18,
       "weight": 40,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -7601,7 +7747,8 @@
       "popularity": 2,
       "height": 30,
       "weight": 95,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -7653,7 +7800,8 @@
       "popularity": 2,
       "height": 10,
       "weight": 18,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -7705,7 +7853,8 @@
       "popularity": 2,
       "height": 10,
       "weight": 9,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -7757,7 +7906,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 60,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -7809,7 +7959,8 @@
       "popularity": 2,
       "height": 15,
       "weight": 20,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -7861,7 +8012,8 @@
       "popularity": 2,
       "height": 20,
       "weight": 45,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -7913,7 +8065,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 90,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -7965,7 +8118,8 @@
       "popularity": 2,
       "height": 30,
       "weight": 90,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -8017,7 +8171,8 @@
       "popularity": 2,
       "height": 10,
       "weight": 12,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -8069,7 +8224,8 @@
       "popularity": 2,
       "height": 10,
       "weight": 7,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -8121,7 +8277,8 @@
       "popularity": 2,
       "height": 9,
       "weight": 9,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -8173,7 +8330,8 @@
       "popularity": 2,
       "height": 14,
       "weight": 18,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -8225,7 +8383,8 @@
       "popularity": 2,
       "height": 12,
       "weight": 13,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -8277,7 +8436,8 @@
       "popularity": 2,
       "height": 25,
       "weight": 80,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -8329,7 +8489,8 @@
       "popularity": 2,
       "height": 20,
       "weight": 35,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -8381,7 +8542,8 @@
       "popularity": 2,
       "height": 10,
       "weight": 12,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -8433,7 +8595,8 @@
       "popularity": 1,
       "height": 30,
       "weight": 155,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 5,
@@ -8485,7 +8648,8 @@
       "popularity": 1,
       "height": 10,
       "weight": 10,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -8537,7 +8701,8 @@
       "popularity": 1,
       "height": 10,
       "weight": 20,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -8589,7 +8754,8 @@
       "popularity": 1,
       "height": 20,
       "weight": 70,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -8641,7 +8807,8 @@
       "popularity": 1,
       "height": 11,
       "weight": 12,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -8693,7 +8860,8 @@
       "popularity": 1,
       "height": 25,
       "weight": 90,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -8745,7 +8913,8 @@
       "popularity": 1,
       "height": 25,
       "weight": 55,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -8797,7 +8966,8 @@
       "popularity": 1,
       "height": 20,
       "weight": 70,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -8849,7 +9019,8 @@
       "popularity": 1,
       "height": 10,
       "weight": 13,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -8901,7 +9072,8 @@
       "popularity": 1,
       "height": 20,
       "weight": 50,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -8953,7 +9125,8 @@
       "popularity": 1,
       "height": 15,
       "weight": 30,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -9005,7 +9178,8 @@
       "popularity": 1,
       "height": 15,
       "weight": 15,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -9057,7 +9231,8 @@
       "popularity": 1,
       "height": 25,
       "weight": 60,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -9109,7 +9284,8 @@
       "popularity": 1,
       "height": 10,
       "weight": 10,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -9161,7 +9337,8 @@
       "popularity": 1,
       "height": 20,
       "weight": 40,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -9213,7 +9390,8 @@
       "popularity": 1,
       "height": 10,
       "weight": 40,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -9265,7 +9443,8 @@
       "popularity": 1,
       "height": 10,
       "weight": 15,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -9317,7 +9496,8 @@
       "popularity": 1,
       "height": 23,
       "weight": 150,
-      "lifespan": 10
+      "lifespan": 10,
+      "rare": true
     },
     "physical": {
       "size": 4,
@@ -9369,7 +9549,8 @@
       "popularity": 1,
       "height": 25,
       "weight": 45,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -9421,7 +9602,8 @@
       "popularity": 5,
       "height": 14,
       "weight": 20,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -9473,7 +9655,8 @@
       "popularity": 5,
       "height": 7,
       "weight": 13,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -9525,7 +9708,8 @@
       "popularity": 5,
       "height": 20,
       "weight": 63,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -9577,7 +9761,8 @@
       "popularity": 5,
       "height": 20,
       "weight": 60,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": false
     },
     "physical": {
       "size": 3,
@@ -9629,7 +9814,8 @@
       "popularity": 4,
       "height": 14,
       "weight": 19,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": false
     },
     "physical": {
       "size": 2,
@@ -9681,7 +9867,8 @@
       "popularity": 4,
       "height": 11,
       "weight": 10,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -9733,7 +9920,8 @@
       "popularity": 5,
       "height": 14,
       "weight": 28,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -9785,7 +9973,8 @@
       "popularity": 5,
       "height": 11,
       "weight": 10,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -9837,7 +10026,8 @@
       "popularity": 4,
       "height": 13,
       "weight": 14,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -9889,7 +10079,8 @@
       "popularity": 4,
       "height": 13,
       "weight": 14,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -9941,7 +10132,8 @@
       "popularity": 5,
       "height": 8,
       "weight": 7,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": false
     },
     "physical": {
       "size": 1,
@@ -9993,7 +10185,8 @@
       "popularity": 4,
       "height": 18,
       "weight": 55,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -10045,7 +10238,8 @@
       "popularity": 5,
       "height": 8,
       "weight": 6,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -10097,7 +10291,8 @@
       "popularity": 4,
       "height": 19,
       "weight": 55,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -10149,7 +10344,8 @@
       "popularity": 5,
       "height": 25,
       "weight": 68,
-      "lifespan": 11
+      "lifespan": 11,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -10201,7 +10397,8 @@
       "popularity": 4,
       "height": 20,
       "weight": 73,
-      "lifespan": 12
+      "lifespan": 12,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -10253,7 +10450,8 @@
       "popularity": 5,
       "height": 9,
       "weight": 10,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -10305,7 +10503,8 @@
       "popularity": 5,
       "height": 25,
       "weight": 68,
-      "lifespan": 11
+      "lifespan": 11,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -10357,7 +10556,8 @@
       "popularity": 5,
       "height": 18,
       "weight": 53,
-      "lifespan": 11
+      "lifespan": 11,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -10409,7 +10609,8 @@
       "popularity": 5,
       "height": 10,
       "weight": 17,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -10461,7 +10662,8 @@
       "popularity": 4,
       "height": 12,
       "weight": 22,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -10513,7 +10715,8 @@
       "popularity": 4,
       "height": 18,
       "weight": 68,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -10565,7 +10768,8 @@
       "popularity": 5,
       "height": 11,
       "weight": 15,
-      "lifespan": 14
+      "lifespan": 14,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -10617,7 +10821,8 @@
       "popularity": 5,
       "height": 23,
       "weight": 58,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -10669,7 +10874,8 @@
       "popularity": 4,
       "height": 12,
       "weight": 13,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,
@@ -10721,7 +10927,8 @@
       "popularity": 4,
       "height": 18,
       "weight": 50,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 3,
@@ -10773,7 +10980,8 @@
       "popularity": 4,
       "height": 14,
       "weight": 20,
-      "lifespan": 13
+      "lifespan": 13,
+      "rare": true
     },
     "physical": {
       "size": 2,
@@ -10825,7 +11033,8 @@
       "popularity": 4,
       "height": 12,
       "weight": 15,
-      "lifespan": 15
+      "lifespan": 15,
+      "rare": true
     },
     "physical": {
       "size": 1,

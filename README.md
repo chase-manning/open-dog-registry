@@ -129,6 +129,12 @@ Average weight of the dog in pounds. Also indicates size and build, giving an id
 
 Average number of years a dog will live.
 
+#### `rare`
+
+A 'rare' dog is one that is considered exceedingly rare to own.
+Or a dog that is only popular in particular regions of the world.
+Is a boolean value, true for rare and false for not.
+
 ### Physical Characteristics
 
 #### `size`
