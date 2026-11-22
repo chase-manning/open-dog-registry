@@ -2,4 +2,4 @@
 
 ## Reporting a Vulnerability
 
-If you have found a security vulnerability with Open Dog Registry, please do not create an Issue for it. Instead please contact Chase Manning directly on any of the socails on [his GitHub profile](https://github.com/chase-manning).
+If you find a security vulnerability in Open Dog Registry, please don't open a public issue for it. Instead, contact Chase Manning directly through any of the social accounts listed on [his GitHub profile](https://github.com/chase-manning).

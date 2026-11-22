@@ -73,13 +73,13 @@ const App = () => {
   return (
     <StyledApp>
       <Content>
-        <Logo src={logo} alt="Open Dog Registry Logo" />
+        <Logo src={logo} alt="Open Dog Registry logo, a cartoon dog" />
         <Header>Open Dog Registry</Header>
-        <Subheader>A free and open-source API for dog breeds</Subheader>
+        <Subheader>A free, open-source JSON API for 209 dog breeds</Subheader>
         <CodeSnippet code="https://v1-3k26ucvzka-uc.a.run.app" />
         <Buttons>
           <Button href={DOCS} primary>
-            View Docs
+            View docs
           </Button>
           <Button href={DONATE}>Donate</Button>
         </Buttons>
