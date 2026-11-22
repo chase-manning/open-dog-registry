@@ -14,6 +14,6 @@ Ideas for improving Open Dog Registry are welcome. Start by [opening an issue](h
 
 Fork the repository and make your changes on your fork or a branch of it, then open a pull request into `main`. Link the issue the pull request relates to, and include a screenshot if relevant.
 
-On each pull request, CI builds the website and runs the data tests. The tests check that each breed has every field with the right type, 3 personality traits and all 6 image files, and that its 3 photos are different from each other. All tests must pass before a pull request can be merged. When a pull request is merged, the website and API deploy automatically and the API serves the updated data from `main`.
+On each pull request, CI builds the website and runs the data tests. The tests check that each breed has an id, the general fields (except the rare flag, which isn't tested) and all physical, behaviour, care and image fields with the right types. They also check that each breed has exactly 3 personality traits and all 6 image files, and that its 3 photos are different from each other. All tests must pass before a pull request can be merged. When a pull request is merged, the website and API deploy automatically and the API serves the updated data from `main`.
 
 All breed data is in `/data/v1.json`. Images are in `/images/[breed-id]/small/[type].jpg` (512x512) and `/images/[breed-id]/large/[type].png` (1024x1024), where `type` is `indoors`, `outdoors` or `studio`. To add a new breed, add its entry to `/data/v1.json` and include all 6 images.
