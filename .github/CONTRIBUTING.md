@@ -1,33 +1,19 @@
 # Contribution Guide
 
-Hi and welcome to the Open Dog Registry contribution guide!  
-Thanks for considering to contribute! :tada:
+Thanks for wanting to help with Open Dog Registry. This guide covers how to report a bug, suggest a change or open a pull request.
 
 ## Found a Bug
 
-If you have found a bug, great job!  
-Please don't hesitate to [create an Issue](https://github.com/chase-manning/open-dog-registry/issues/new) for it so it can be fixed.  
-Please make sure to add the `bug` Label, and if appropriate, the `good first issue` Label.  
-If you want to fix the bug yourself, then also assign the Issue to yourself and view the `Development Workflow`!
+If you find a bug, [open an issue](https://github.com/chase-manning/open-dog-registry/issues/new) so it can be tracked and fixed. Add the `bug` label, and add `good first issue` if it's suitable. If you want to fix it yourself, assign the issue to yourself and follow the Development Workflow section below.
 
 ## Got a Suggestion
 
-Suggestions to improve the Open Dog Registry are very welcomed!  
-Please first [create an Issue](https://github.com/chase-manning/open-dog-registry/issues/new) with the idea.
-Please make sure to add the `enhancement` Label, and if appropriate, the `good first issue` Label.
-If you want to fix the bug yourself, then also assign the Issue to yourself and view the `Development Workflow`!
+Ideas for improving Open Dog Registry are welcome. Start by [opening an issue](https://github.com/chase-manning/open-dog-registry/issues/new) with your suggestion, and add the `enhancement` label (plus `good first issue` if suitable). If you want to work on it yourself, assign the issue to yourself and check the Development Workflow section below.
 
 ## Development Workflow
 
-If you are contributing, please first fork the repo.  
-Make your changes in this forked repository or a branch off it until you are happy.  
-And then create a PR back into `main`.  
-Please also link the Issue that the PR relates to, and include a screenshot of your changes if relevant
+Fork the repository and make your changes on your fork or a branch of it, then open a pull request into `main`. Link the issue the pull request relates to, and include a screenshot if relevant.
 
-Before any PR can be merged, all tests must be passing.
-These are all visible within the PR view so you can easily see if there are any issues.  
-Each PR will deploy the website and update the API automatically once merged.
+On each pull request, CI builds the website and runs the data tests. The tests check that each breed has every field with the right type, 3 personality traits and all 6 image files, and that its 3 photos are different from each other. All tests must pass before a pull request can be merged. When a pull request is merged, the website and API deploy automatically and the API serves the updated data from `main`.
 
-If some of the information about a dog breed needs updating, you can find all of this in `/data/v1.json` to update.
-If an image needs updating, you can find this in `/images/[dog-breed-id]/[image-type].png`.
-To add a new dog breed, you will need to add both the images, and data for this.
+All breed data is in `/data/v1.json`. Images are in `/images/[breed-id]/small/[type].jpg` (512x512) and `/images/[breed-id]/large/[type].png` (1024x1024), where `type` is `indoors`, `outdoors` or `studio`. To add a new breed, add its entry to `/data/v1.json` and include all 6 images.

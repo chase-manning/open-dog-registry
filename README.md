@@ -1,36 +1,32 @@
-![image](https://github.com/user-attachments/assets/108c0fe4-c6cb-4cf1-96c8-75da476f2e17)
+![Open Dog Registry: A free and open-source API for dog breeds. Banner with a smiling dog badge and a copyable URL.](https://github.com/user-attachments/assets/108c0fe4-c6cb-4cf1-96c8-75da476f2e17)
 
 # Open Dog Registry
 
-A free and open-source API for dog breeds! 🐶
+A free, open-source JSON API with dog breed data and photos.
 
 ## Contributing
 
-If you are interested in contributing please check out our [Contribution Guide](https://github.com/chase-manning/open-dog-registry/blob/main/.github/CONTRIBUTING.md) :tada:
+The breed data lives in `data/v1.json`, and the API serves whatever is merged into the main branch. If you'd like to contribute, start with the [Contribution Guide](https://github.com/chase-manning/open-dog-registry/blob/main/.github/CONTRIBUTING.md).
 
 ## License
 
-Open Dog Registry is under a [MIT License](https://github.com/chase-manning/open-dog-registry/blob/main/LICENSE).  
-Feel free to use this API however you like.  
-We do ask though that if you use the API, to please:
+Open Dog Registry is released under the [MIT License](https://github.com/chase-manning/open-dog-registry/blob/main/LICENSE), so you can use it however you like. The requests below aren't part of the licence, but if you use the API, please:
 
-- Cache things where you can to minimise requets
-- Mention in your project that you used our API and link to this repository.
-- [Consider donating](https://buymeacoffee.com/chase8) if you found this API helpful
+- Cache the response where you can, because every request returns the whole dataset and the data only changes when this repository changes.
+- Mention Open Dog Registry in your project and link to this repository.
+- [Consider donating](https://buymeacoffee.com/chase8) if you found this API helpful.
 
-## Projects built using Open Dog Registry API
+## Projects built with Open Dog Registry
 
 <a href="https://dogmatch.me/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/a56312e7-8f10-4b01-b213-36127114f3ff" width="400px" />
+  <img src="https://github.com/user-attachments/assets/a56312e7-8f10-4b01-b213-36127114f3ff" width="400px" alt="dogmatch app: logo, quiz question cards and a Pointer result card with a photo, rating bars and trait tags." />
 </a>
 
-(Raise a PR to add your own project)
+Open a pull request to add your own project.
 
 ## API Docs
 
-The endpoint of the API is `https://v1-3k26ucvzka-uc.a.run.app`.
-
-The response is in the following format:
+Send a GET request to `https://v1-3k26ucvzka-uc.a.run.app` with no API key needed and CORS open for browser requests. It returns a single JSON response in this format:
 
 ```
 {
@@ -89,186 +85,166 @@ The response is in the following format:
 
 #### `id`
 
-The unique identifier of the dog breed. Can be considered immutable between versions.
+A unique string identifying the breed, such as "chihuahua". It stays the same between versions, so it's safe to store.
 
 ### General Information
 
 #### `name`
 
-Breed of the dog, which refers to the specific genetic lineage or type of dog (e.g. Labrador Retriever, German Shepherd, Beagle, etc).
+The breed's name as a string, such as "Labrador Retriever", "German Shepherd" or "Beagle".
 
 #### `group`
 
-Category of dog based on its purpose or characteristics (e.g. Terrier, Working, Companion, etc).
+A string grouping the breed by the work or role it was bred for. It's one of "Companion", "Working", "Herding", "Sporting", "Hound", "Guardian" or "Terrier".
 
 #### `personalityTraits`
 
-Three key words that highlight the core personality traits of the dog, such as "Faithful," "Sociable," or "Playful." These traits help to give an overview of the dog's temperament and behavior.
+An array of exactly 3 single-word strings describing the breed's personality, such as "Faithful", "Sociable" and "Playful".
 
 #### `shortDescription`
 
-This section provides a general overview about the dog.
+A one-sentence string of roughly 11 to 21 words summarising the breed.
 
 #### `longDescription`
 
-This section provides general information about the dog, including its background, personality traits, and any other relevant details.
+A string of roughly 90 to 250 words covering the breed's background, temperament and care. Paragraphs are separated by a single newline character.
 
 #### `popularity`
 
-Popularity of the breed, reflecting how well-known it is, how common it is as a pet, and how easy it is to find.
+The breed's popularity, reflecting how well-known it is, how common it is as a pet and how easy it is to find. This is an integer from 1 to 5, where 1 is the least popular and 5 is the most popular.
 
 #### `height`
 
-Average height of the dog in inches.
+The breed's average height in inches, as a number.
 
 #### `weight`
 
-Average weight of the dog in pounds. Also indicates size and build, giving an idea of how heavy this breed is.
+The breed's average weight in pounds, as a number.
 
 #### `lifespan`
 
-Average number of years a dog will live.
+The breed's average lifespan in years, as a number.
 
 #### `rare`
 
-A 'rare' dog is one that is considered exceedingly rare to own.
-Or a dog that is only popular in particular regions of the world.
-Is a boolean value, true for rare and false for not.
+A boolean that is `true` if the breed is very rare to own or only popular in particular regions of the world, and `false` otherwise.
 
 ### Physical Characteristics
 
 #### `size`
 
-A dog's relative size compared to other breeds.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Small and 5 is Big.
+The breed's size compared to other breeds. Integer from 1 to 5 inclusive (1 = Small, 5 = Big).
 
 #### `lifespan`
 
-How long a dog is likely to live compared to other dogs.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Short and 5 is Long.
+How long the breed is likely to live compared to other breeds (use `general.lifespan` for the number of years). Integer from 1 to 5 inclusive (1 = Short, 5 = Long).
 
 #### `droolingFrequency`
 
-How likely a breed is to drool. Breeds with high salivation may leave drool on clothes and furniture.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Not a drooler and 5 is Heavy drooler.
+How likely the breed is to drool. Breeds near the top of the scale may leave drool on clothes and furniture. Integer from 1 to 5 inclusive (1 = Not a drooler, 5 = Heavy drooler).
 
 #### `coatStyle`
 
-Texture and appearance of a dog's coat (wavy, wiry, curly, hairless or straight).
+The style and appearance of the breed's coat. String, one of "Straight", "Wavy", "Curly", "Wire", "Hairless" or "Corded".
 
 #### `coatTexture`
 
-Texture of a dog's coat (rough, silky or smooth).
+The texture of the breed's coat. String, one of "Smooth", "Rough" or "Silky".
 
 #### `coatLength`
 
-Length of a dog's fur from skin to tip. It affects the dog's overall appearance and can influence grooming needs and seasonal care.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Short and 5 is Long.
+Length of the breed's fur from skin to tip, which can influence grooming needs and seasonal care. Integer from 1 to 5 inclusive (1 = Short, 5 = Long).
 
 #### `doubleCoat`
 
-Double-coated dogs have two layers of fur: a harsh topcoat and a soft undercoat. The soft undercoat is shorter, grows faster, and sheds twice a year. The topcoat is longer and more protective.
-Is a boolean value, true for double coated and false for not.
+Double-coated dogs have two layers of fur: a harsh topcoat and a soft undercoat. The soft undercoat is shorter, grows faster and sheds twice a year, while the topcoat is longer and more protective. Boolean: `true` if the breed is double-coated, `false` if not.
 
 ### Behavioral Traits
 
 #### `familyAffection`
 
-How affectionate a breed is with family members or other familiar people. Some breeds may show affection primarily to their owner, while others are friendly and affectionate with everyone they know well.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Reserved and 5 is Very Affectionate.
+How affectionate a breed is with family members and other familiar people. Some breeds show affection mainly to their owner, while others are warm with everyone they know well. Integer from 1 to 5 inclusive (1 = Reserved, 5 = Very affectionate).
 
 #### `childFriendly`
 
-How tolerant and patient a dog is with young children and its overall family-friendly nature.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Not child-friendly and 5 is Very child-friendly.
+How tolerant and patient a breed is with young children, and how well suited it is to family life. Integer from 1 to 5 inclusive (1 = Not child-friendly, 5 = Very child-friendly).
 
 #### `dogSociability`
 
-How friendly and social a breed is with other dogs. Some breeds naturally tend to get along well with other dogs.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Not Sociable and 5 is Very Sociable.
+How friendly and social a breed is with other dogs. Integer from 1 to 5 inclusive (1 = Not sociable, 5 = Very sociable).
 
 #### `friendlinessToStrangers`
 
-How welcoming a breed is towards strangers. Some breeds may be reserved or cautious around new people, while others will be eager and happy to meet someone new.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Reserved or cautious and 5 is Very friendly.
+How welcoming a breed is towards strangers. Some breeds are reserved or cautious around new people, while others are happy to meet someone new. Integer from 1 to 5 inclusive (1 = Reserved or cautious, 5 = Very friendly).
 
 #### `playfulness`
 
-How enthusiastic a breed is about playing. Some breeds are eager to play tug-of-war or fetch well beyond puppyhood, while others prefer to relax more often.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Relaxed and 5 is Very playful.
+How enthusiastic a breed is about playing. Some breeds are eager to play tug-of-war or fetch well beyond puppyhood, while others prefer to relax. Integer from 1 to 5 inclusive (1 = Relaxed, 5 = Very playful).
 
 #### `protectiveInstincts`
 
-How likely a breed is to warn you of strangers or potential threats. Strongly protective breeds are more likely to react to unfamiliar people or animals. They are usually more friendly towards strangers who are welcomed by their family.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Less alert and 5 is Highly vigilant.
+How likely a breed is to warn you of strangers or potential threats. Strongly protective breeds are more likely to react to unfamiliar people or animals, though they are usually friendlier towards strangers welcomed by their family. Integer from 1 to 5 inclusive (1 = Less alert, 5 = Highly vigilant).
 
 #### `adaptability`
 
-How easily a breed adapts to changes in their environment (e.g. living conditions, noise levels, weather, daily schedules, etc).
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Not very adaptable and 5 is Very adaptable.
+How easily a breed adjusts to changes in its environment, such as living conditions, noise levels, weather and daily schedules. Integer from 1 to 5 inclusive (1 = Not very adaptable, 5 = Very adaptable).
 
 #### `barkingFrequency`
 
-How frequently a breed may bark or howl. While some breeds bark at almost anything, others might only bark in specific situations (but even barkless breeds may use other sounds to express themselves.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Quiet and 5 is Noisy.
+How often a breed barks or howls. Some breeds bark at almost anything, while others only do so in specific situations (and even barkless breeds make other sounds). Integer from 1 to 5 inclusive (1 = Quiet, 5 = Noisy).
 
 ### Care Requirements
 
 #### `sheddingAmount`
 
-Indicates how much fur and hair the breed sheds. Higher shedding means more brushing is needed, higher chances of triggering allergies, and more frequent vacuuming.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Low shedding and 5 is High shedding.
+How much fur and hair the breed sheds. Higher scores mean more brushing, more vacuuming and a higher chance of triggering allergies. Integer from 1 to 5 inclusive (1 = Low shedding, 5 = High shedding).
 
 #### `groomingFrequency`
 
-How often a breed needs bathing, brushing, trimming or other coat maintenance, depending on your time, patience, and budget for grooming. (Note that all breeds need regular nail trimming.)
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Rarely and 5 is Very often.
+How often the breed needs bathing, brushing, trimming or other coat maintenance. All breeds need regular nail trimming regardless of this score. Integer from 1 to 5 inclusive (1 = Rarely, 5 = Very often).
 
 #### `exerciseNeeds`
 
-How much physical exercise a dog needs. Very active dogs are lively, always ready for their next adventure, and need plenty of playtime. Inactive dogs are more laid-back and happy with minimal activity.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is a Couch potato and 5 is an Energetic explorer.
+How much physical exercise the breed needs. Low scores are for laid-back dogs happy with minimal activity, and high scores are for lively dogs that need plenty of playtime. Integer from 1 to 5 inclusive (1 = Couch potato, 5 = Energetic explorer).
 
 #### `mentalStimulationNeeds`
 
-How much mental stimulation a breed needs to stay happy and healthy. Breeds with high mental stimulation needs may need activities that involve decision-making, problem-solving and concentration. (Otherwise, these dogs might create their own less desirable activities!)
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Low and 5 is High.
+How much mental stimulation the breed needs to stay happy and healthy. High-scoring breeds may need activities involving decision-making, problem-solving and concentration, or they might make up less welcome ones of their own. Integer from 1 to 5 inclusive (1 = Low, 5 = High).
 
 #### `trainingDifficulty`
 
-How easy it is to train your dog and their willingness to learn new commands and behaviors. Some breeds are eager to please and quick to learn, while others may be more independent and stubborn.
-Is a positive integeter between 1 and 5 (inclusive). Where 1 is Easy to train and 5 is Challenging to train.
+How difficult the breed is to train, including its willingness to learn new commands and behaviours. Breeds that are eager to please and quick to learn score lower, while more independent and stubborn breeds score higher. Integer from 1 to 5 inclusive (1 = Easy to train, 5 = Challenging to train).
 
 ### Images
 
 #### Small
 
-Small jpg photos of the dog breed (512px by 512px):
+The `images.small` object holds three JPG photo URLs at 512x512 pixels:
 
 ##### `indoors`
 
-A link to a photo of the dog indoors, usually in a home environment.
+URL string for a photo of the breed indoors, usually in a home.
 
 ##### `outdoors`
 
-A link to a photo of the dog outdoors, usually out on a walk in nature.
+URL string for a photo of the breed outdoors, usually on a walk in nature.
 
 ##### `studio`
 
-A link to a photo of the dog in a professional studio with a white backdrop.
+URL string for a studio photo of the breed against a white backdrop.
 
 #### Large
 
-Large png photos of the dog breed (1024px by 1024px):
+The `images.large` object holds URLs for the same three photos as PNGs at 1024x1024 pixels:
 
 ##### `indoors`
 
-A link to a photo of the dog indoors, usually in a home environment.
+URL string for a photo of the breed indoors, usually in a home.
 
 ##### `outdoors`
 
-A link to a photo of the dog outdoors, usually out on a walk in nature.
+URL string for a photo of the breed outdoors, usually on a walk in nature.
 
 ##### `studio`
 
-A link to a photo of the dog in a professional studio with a white backdrop.
+URL string for a studio photo of the breed against a white backdrop.
