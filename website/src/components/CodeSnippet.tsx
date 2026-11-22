@@ -53,7 +53,7 @@ const CodeSnippet = ({ code }: { code: string }): JSX.Element => {
     <StyledCodeSnippet>
       <Code>{code}</Code>
       <CopyButton onClick={copyCode}>
-        <CopyIcon src={success ? tickAsset : copyAsset} alt="Copy code" />
+        <CopyIcon src={success ? tickAsset : copyAsset} alt="Copy API endpoint URL" />
       </CopyButton>
     </StyledCodeSnippet>
   );
